@@ -1,0 +1,174 @@
+[
+  {
+    "name": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "skills": [
+      "AWS",
+      "Networking"
+    ]
+  },
+  {
+    "name": "AWS Certified Solutions Architect - Associate",
+    "issuer": "Amazon Web Services",
+    "skills": [
+      "AWS",
+      "Networking",
+      "System Design"
+    ]
+  },
+  {
+    "name": "Microsoft Azure Fundamentals (AZ-900)",
+    "issuer": "Microsoft",
+    "skills": [
+      "Azure"
+    ]
+  },
+  {
+    "name": "Google Cloud Digital Leader",
+    "issuer": "Google Cloud",
+    "skills": [
+      "Google Cloud"
+    ]
+  },
+  {
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "issuer": "CNCF",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Linux"
+    ]
+  },
+  {
+    "name": "HashiCorp Terraform Associate",
+    "issuer": "HashiCorp",
+    "skills": [
+      "Terraform"
+    ]
+  },
+  {
+    "name": "MongoDB Associate Developer",
+    "issuer": "MongoDB University",
+    "skills": [
+      "MongoDB",
+      "Database Design"
+    ]
+  },
+  {
+    "name": "Meta Front-End Developer Certificate",
+    "issuer": "Coursera / Meta",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "name": "Full Stack Web Development Bootcamp",
+    "issuer": "Udemy",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Google Data Analytics Certificate",
+    "issuer": "Coursera / Google",
+    "skills": [
+      "SQL",
+      "Data Visualization",
+      "Excel",
+      "Statistics"
+    ]
+  },
+  {
+    "name": "IBM Data Science Professional Certificate",
+    "issuer": "Coursera / IBM",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Machine Learning",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Machine Learning Specialization",
+    "issuer": "DeepLearning.AI",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  {
+    "name": "TensorFlow Developer Certificate",
+    "issuer": "Google",
+    "skills": [
+      "TensorFlow",
+      "Deep Learning"
+    ]
+  },
+  {
+    "name": "CompTIA Security+",
+    "issuer": "CompTIA",
+    "skills": [
+      "Network Security",
+      "Cryptography",
+      "Networking"
+    ]
+  },
+  {
+    "name": "Certified Ethical Hacker (CEH)",
+    "issuer": "EC-Council",
+    "skills": [
+      "Ethical Hacking",
+      "Web Security"
+    ]
+  },
+  {
+    "name": "Google UX Design Certificate",
+    "issuer": "Coursera / Google",
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Wireframing",
+      "UI Design"
+    ]
+  },
+  {
+    "name": "Unity Certified User",
+    "issuer": "Unity",
+    "skills": [
+      "Unity",
+      "C#"
+    ]
+  },
+  {
+    "name": "ISTQB Foundation Level",
+    "issuer": "ISTQB",
+    "skills": [
+      "Test Automation",
+      "Agile"
+    ]
+  },
+  {
+    "name": "Oracle Certified Java Programmer",
+    "issuer": "Oracle",
+    "skills": [
+      "Java",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "name": "Scrum Master (PSM I)",
+    "issuer": "Scrum.org",
+    "skills": [
+      "Agile",
+      "Project Management"
+    ]
+  }
+]

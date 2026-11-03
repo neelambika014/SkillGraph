@@ -1,0 +1,988 @@
+[
+  {
+    "slug": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "domain": "Web Development",
+    "demand": 92,
+    "description": "Builds complete web applications: UI, APIs, databases and deployment.",
+    "requirements": [
+      {
+        "skill": "HTML",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "CSS",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "JavaScript",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "TypeScript",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "React",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "Next.js",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "Node.js",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "Express.js",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "REST API Design",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Authentication",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "MongoDB",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "SQL",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "Database Design",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Docker",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Unit Testing",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Responsive Design",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Communication",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "frontend-developer",
+    "title": "Frontend Developer",
+    "domain": "Web Development",
+    "demand": 88,
+    "description": "Crafts fast, accessible, beautiful user interfaces.",
+    "requirements": [
+      {
+        "skill": "HTML",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "CSS",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "JavaScript",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "TypeScript",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "React",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Next.js",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Redux",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Responsive Design",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "Accessibility",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Webpack",
+        "level": 2,
+        "weight": 1
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Unit Testing",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Figma",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "backend-developer",
+    "title": "Backend Developer",
+    "domain": "Web Development",
+    "demand": 90,
+    "description": "Designs APIs, services and data layers that scale.",
+    "requirements": [
+      {
+        "skill": "Node.js",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "Express.js",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Python",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "REST API Design",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Authentication",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "SQL",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "MongoDB",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Redis",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "Database Design",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "Microservices",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Docker",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Unit Testing",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "System Design",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "GraphQL",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Linux",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "data-analyst",
+    "title": "Data Analyst",
+    "domain": "Data Science & AI",
+    "demand": 86,
+    "description": "Turns raw data into insight with SQL, spreadsheets and dashboards.",
+    "requirements": [
+      {
+        "skill": "SQL",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Excel",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Python",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Pandas",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "NumPy",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Data Visualization",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Statistics",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Data Warehousing",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Communication",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Problem Solving",
+        "level": 3,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "data-scientist",
+    "title": "Data Scientist",
+    "domain": "Data Science & AI",
+    "demand": 84,
+    "description": "Builds statistical and machine learning models to answer business questions.",
+    "requirements": [
+      {
+        "skill": "Python",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Pandas",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "NumPy",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Statistics",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Machine Learning",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Data Visualization",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "SQL",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Deep Learning",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "NLP",
+        "level": 2,
+        "weight": 1
+      },
+      {
+        "skill": "Git",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Communication",
+        "level": 3,
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "slug": "ml-engineer",
+    "title": "Machine Learning Engineer",
+    "domain": "Data Science & AI",
+    "demand": 87,
+    "description": "Takes ML models from notebook to production.",
+    "requirements": [
+      {
+        "skill": "Python",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Machine Learning",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Deep Learning",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "TensorFlow",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "PyTorch",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "MLOps",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Docker",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Data Engineering",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "SQL",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "AWS",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "NLP",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Unit Testing",
+        "level": 2,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "slug": "llm-engineer",
+    "title": "AI / LLM Engineer",
+    "domain": "Data Science & AI",
+    "demand": 95,
+    "description": "Builds applications on top of large language models.",
+    "requirements": [
+      {
+        "skill": "Python",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "LLMs",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "NLP",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Machine Learning",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "FastAPI",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "REST API Design",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Docker",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Redis",
+        "level": 2,
+        "weight": 1
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "AWS",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "JavaScript",
+        "level": 2,
+        "weight": 1
+      },
+      {
+        "skill": "System Design",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "devops-engineer",
+    "title": "DevOps Engineer",
+    "domain": "DevOps & Cloud",
+    "demand": 91,
+    "description": "Automates build, deploy and operations of software systems.",
+    "requirements": [
+      {
+        "skill": "Linux",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Git",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "Docker",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Kubernetes",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "CI/CD",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "AWS",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Terraform",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Ansible",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Monitoring",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Networking",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Python",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Nginx",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "cloud-engineer",
+    "title": "Cloud Engineer",
+    "domain": "DevOps & Cloud",
+    "demand": 89,
+    "description": "Designs and runs secure, cost-effective cloud infrastructure.",
+    "requirements": [
+      {
+        "skill": "AWS",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Azure",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Google Cloud",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Linux",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Networking",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Terraform",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Docker",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Kubernetes",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "CI/CD",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Python",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Monitoring",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Network Security",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "mobile-developer",
+    "title": "Mobile App Developer",
+    "domain": "Mobile Development",
+    "demand": 82,
+    "description": "Ships apps for Android, iOS or both.",
+    "requirements": [
+      {
+        "skill": "Kotlin",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Android Development",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Swift",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Flutter",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Dart",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "React Native",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "REST API Design",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Firebase",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "UI Design",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Unit Testing",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "domain": "Cybersecurity",
+    "demand": 93,
+    "description": "Detects, investigates and prevents security threats.",
+    "requirements": [
+      {
+        "skill": "Networking",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Linux",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Network Security",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Ethical Hacking",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Web Security",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Cryptography",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "SIEM",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Incident Response",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Python",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Authentication",
+        "level": 3,
+        "weight": 2
+      },
+      {
+        "skill": "Communication",
+        "level": 3,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "ux-designer",
+    "title": "UI/UX Designer",
+    "domain": "UI/UX Design",
+    "demand": 80,
+    "description": "Designs intuitive products grounded in user research.",
+    "requirements": [
+      {
+        "skill": "Figma",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "UI Design",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "UX Research",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "Wireframing",
+        "level": 4,
+        "weight": 4
+      },
+      {
+        "skill": "Design Systems",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Accessibility",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "HTML",
+        "level": 2,
+        "weight": 1
+      },
+      {
+        "skill": "CSS",
+        "level": 2,
+        "weight": 1
+      },
+      {
+        "skill": "Communication",
+        "level": 3,
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "slug": "game-developer",
+    "title": "Game Developer",
+    "domain": "Game Development",
+    "demand": 74,
+    "description": "Builds interactive games and real-time 3D experiences.",
+    "requirements": [
+      {
+        "skill": "Unity",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "C#",
+        "level": 3,
+        "weight": 5
+      },
+      {
+        "skill": "C++",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Unreal Engine",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "3D Modeling",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Data Structures & Algorithms",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Object-Oriented Programming",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Problem Solving",
+        "level": 3,
+        "weight": 2
+      },
+      {
+        "skill": "Teamwork",
+        "level": 2,
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "slug": "qa-automation-engineer",
+    "title": "QA Automation Engineer",
+    "domain": "Software Engineering",
+    "demand": 78,
+    "description": "Builds automated test suites that keep releases safe.",
+    "requirements": [
+      {
+        "skill": "Test Automation",
+        "level": 4,
+        "weight": 5
+      },
+      {
+        "skill": "Unit Testing",
+        "level": 3,
+        "weight": 4
+      },
+      {
+        "skill": "JavaScript",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Python",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Git",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "CI/CD",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "REST API Design",
+        "level": 2,
+        "weight": 3
+      },
+      {
+        "skill": "SQL",
+        "level": 2,
+        "weight": 2
+      },
+      {
+        "skill": "Agile",
+        "level": 3,
+        "weight": 3
+      },
+      {
+        "skill": "Communication",
+        "level": 3,
+        "weight": 2
+      },
+      {
+        "skill": "Documentation",
+        "level": 2,
+        "weight": 1
+      }
+    ]
+  }
+]

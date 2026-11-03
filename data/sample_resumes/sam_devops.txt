@@ -1,0 +1,25 @@
+Sam Okafor
+DevOps Engineer
+sam.okafor@example.com | github.com/samo-ops
+
+SUMMARY
+DevOps engineer with 5+ years of experience automating cloud infrastructure and delivery pipelines.
+
+SKILLS
+Linux, Bash, Docker, Kubernetes, Helm, Terraform, Ansible, AWS (EC2, S3, Lambda), CI/CD, Jenkins, GitHub Actions, Prometheus, Grafana, Nginx, Python, Git, Networking
+
+EXPERIENCE
+Senior DevOps Engineer - CloudNine (2021 - Present)
+- Expert in Kubernetes: run 40 microservices on EKS with Helm and Terraform
+- 5 years of AWS experience, cost optimisation saved 30%
+- Built CI/CD pipelines with GitHub Actions and Jenkins; monitoring with Prometheus and Grafana
+
+EDUCATION
+B.Sc. Computer Science, University of Lagos
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate, Amazon Web Services, 2022
+Certified Kubernetes Administrator (CKA), CNCF, 2023
+
+INTERESTS
+Home lab, self-hosting, gaming

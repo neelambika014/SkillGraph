@@ -1,0 +1,369 @@
+[
+  {
+    "id": "gaming",
+    "label": "Gaming",
+    "keywords": [
+      "gaming",
+      "video games",
+      "esports",
+      "minecraft",
+      "steam",
+      "console"
+    ],
+    "careers": [
+      "game-developer",
+      "ux-designer",
+      "full-stack-developer"
+    ],
+    "skills": [
+      "Unity",
+      "C#",
+      "3D Modeling",
+      "UI Design"
+    ],
+    "why": "You enjoy interactive systems - game development, UX and real-time apps reward exactly that curiosity."
+  },
+  {
+    "id": "photography",
+    "label": "Photography",
+    "keywords": [
+      "photography",
+      "photo editing",
+      "videography",
+      "filmmaking",
+      "cinematography"
+    ],
+    "careers": [
+      "ux-designer",
+      "frontend-developer",
+      "game-developer"
+    ],
+    "skills": [
+      "UI Design",
+      "Figma",
+      "3D Modeling",
+      "Accessibility"
+    ],
+    "why": "A trained visual eye transfers directly to interface and visual design."
+  },
+  {
+    "id": "drawing",
+    "label": "Drawing & Art",
+    "keywords": [
+      "drawing",
+      "painting",
+      "sketching",
+      "art",
+      "illustration",
+      "calligraphy",
+      "digital art"
+    ],
+    "careers": [
+      "ux-designer",
+      "frontend-developer",
+      "game-developer"
+    ],
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Wireframing",
+      "3D Modeling"
+    ],
+    "why": "Creative and visual practice maps well onto design and front-end craft."
+  },
+  {
+    "id": "music",
+    "label": "Music",
+    "keywords": [
+      "music",
+      "singing",
+      "guitar",
+      "piano",
+      "dj",
+      "audio production"
+    ],
+    "careers": [
+      "game-developer",
+      "ml-engineer",
+      "frontend-developer"
+    ],
+    "skills": [
+      "Unity",
+      "Python",
+      "NLP"
+    ],
+    "why": "Pattern, rhythm and structure appear in audio tech, generative AI and interactive media."
+  },
+  {
+    "id": "chess",
+    "label": "Chess & Puzzles",
+    "keywords": [
+      "chess",
+      "puzzles",
+      "sudoku",
+      "rubik",
+      "brain teasers",
+      "strategy games",
+      "board games"
+    ],
+    "careers": [
+      "backend-developer",
+      "data-scientist",
+      "ml-engineer"
+    ],
+    "skills": [
+      "Data Structures & Algorithms",
+      "Problem Solving",
+      "Statistics"
+    ],
+    "why": "Strategic thinking and pattern recognition are core to algorithms and data work."
+  },
+  {
+    "id": "writing",
+    "label": "Reading & Writing",
+    "keywords": [
+      "writing",
+      "blogging",
+      "reading",
+      "poetry",
+      "journalism",
+      "storytelling",
+      "books"
+    ],
+    "careers": [
+      "llm-engineer",
+      "ux-designer",
+      "data-analyst"
+    ],
+    "skills": [
+      "NLP",
+      "LLMs",
+      "UX Research",
+      "Communication",
+      "Documentation"
+    ],
+    "why": "Strong language skills pair well with NLP, content-heavy UX and data storytelling."
+  },
+  {
+    "id": "robotics",
+    "label": "Robotics & Electronics",
+    "keywords": [
+      "robotics",
+      "arduino",
+      "raspberry pi",
+      "electronics",
+      "iot",
+      "drones",
+      "hardware"
+    ],
+    "careers": [
+      "ml-engineer",
+      "cybersecurity-analyst",
+      "mobile-developer"
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Computer Vision",
+      "Linux"
+    ],
+    "why": "Hands-on hardware tinkering leads naturally into embedded, CV and security work."
+  },
+  {
+    "id": "finance",
+    "label": "Finance & Investing",
+    "keywords": [
+      "stocks",
+      "investing",
+      "trading",
+      "finance",
+      "economics",
+      "crypto",
+      "personal finance"
+    ],
+    "careers": [
+      "data-analyst",
+      "data-scientist",
+      "backend-developer"
+    ],
+    "skills": [
+      "SQL",
+      "Statistics",
+      "Excel",
+      "Data Visualization"
+    ],
+    "why": "Comfort with numbers and markets suits analytics and quantitative roles."
+  },
+  {
+    "id": "sports",
+    "label": "Sports & Fitness",
+    "keywords": [
+      "cricket",
+      "football",
+      "sports",
+      "fitness",
+      "running",
+      "gym",
+      "yoga",
+      "basketball",
+      "tennis"
+    ],
+    "careers": [
+      "data-analyst",
+      "mobile-developer",
+      "data-scientist"
+    ],
+    "skills": [
+      "Data Visualization",
+      "Statistics",
+      "Flutter"
+    ],
+    "why": "Sports analytics and fitness apps are two booming data/mobile niches."
+  },
+  {
+    "id": "hacking",
+    "label": "Hacking & CTFs",
+    "keywords": [
+      "hacking",
+      "ctf",
+      "capture the flag",
+      "lockpicking",
+      "security",
+      "privacy",
+      "tryhackme"
+    ],
+    "careers": [
+      "cybersecurity-analyst",
+      "devops-engineer",
+      "backend-developer"
+    ],
+    "skills": [
+      "Ethical Hacking",
+      "Linux",
+      "Networking",
+      "Web Security"
+    ],
+    "why": "Curiosity about how systems break is the foundation of a security career."
+  },
+  {
+    "id": "teaching",
+    "label": "Teaching & Volunteering",
+    "keywords": [
+      "teaching",
+      "tutoring",
+      "volunteering",
+      "mentoring",
+      "community",
+      "ngo",
+      "public speaking"
+    ],
+    "careers": [
+      "ux-designer",
+      "data-analyst",
+      "full-stack-developer"
+    ],
+    "skills": [
+      "Communication",
+      "UX Research",
+      "Leadership"
+    ],
+    "why": "Empathy and clear explanation are underrated engineering and UX strengths."
+  },
+  {
+    "id": "travel",
+    "label": "Travel & Maps",
+    "keywords": [
+      "travel",
+      "hiking",
+      "maps",
+      "geography",
+      "trekking",
+      "backpacking",
+      "vlogging"
+    ],
+    "careers": [
+      "mobile-developer",
+      "data-analyst",
+      "full-stack-developer"
+    ],
+    "skills": [
+      "Flutter",
+      "React Native",
+      "Data Visualization"
+    ],
+    "why": "Travel apps, maps and geo data are classic portfolio themes."
+  },
+  {
+    "id": "cooking",
+    "label": "Cooking & Food",
+    "keywords": [
+      "cooking",
+      "baking",
+      "food",
+      "recipes",
+      "coffee",
+      "restaurants"
+    ],
+    "careers": [
+      "ux-designer",
+      "full-stack-developer",
+      "mobile-developer"
+    ],
+    "skills": [
+      "UX Research",
+      "React",
+      "Firebase"
+    ],
+    "why": "Recipe, ordering and delivery products are approachable full-stack and UX projects."
+  },
+  {
+    "id": "automation",
+    "label": "Home Automation & Gadgets",
+    "keywords": [
+      "automation",
+      "smart home",
+      "gadgets",
+      "tinkering",
+      "3d printing",
+      "home lab",
+      "homelab",
+      "self-hosting"
+    ],
+    "careers": [
+      "devops-engineer",
+      "cloud-engineer",
+      "backend-developer"
+    ],
+    "skills": [
+      "Linux",
+      "Docker",
+      "Networking",
+      "Python"
+    ],
+    "why": "Self-hosting and home labs are practice runs for DevOps and cloud work."
+  },
+  {
+    "id": "social",
+    "label": "Social Media & Content",
+    "keywords": [
+      "social media",
+      "youtube",
+      "content creation",
+      "podcast",
+      "streaming",
+      "marketing",
+      "influencer"
+    ],
+    "careers": [
+      "frontend-developer",
+      "data-analyst",
+      "ux-designer"
+    ],
+    "skills": [
+      "Data Visualization",
+      "UI Design",
+      "Next.js"
+    ],
+    "why": "Audience growth and content analytics reward both design and data skills."
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "description": "Responsive portfolio with project gallery, contact form and dark mode.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design"
+    ],
+    "difficulty": 1,
+    "hours": 15
+  },
+  {
+    "title": "Task Manager with Auth",
+    "description": "Kanban-style task app with sign-up, JWT login and per-user boards.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Authentication",
+      "REST API Design"
+    ],
+    "difficulty": 2,
+    "hours": 40
+  },
+  {
+    "title": "E-commerce Storefront",
+    "description": "Product catalogue, cart, checkout flow and admin panel.",
+    "skills": [
+      "Next.js",
+      "React",
+      "MongoDB",
+      "Authentication",
+      "REST API Design",
+      "Database Design"
+    ],
+    "difficulty": 3,
+    "hours": 80
+  },
+  {
+    "title": "Real-time Chat App",
+    "description": "Rooms, typing indicators and message history over websockets.",
+    "skills": [
+      "Node.js",
+      "WebSockets",
+      "React",
+      "MongoDB"
+    ],
+    "difficulty": 2,
+    "hours": 35
+  },
+  {
+    "title": "Blog Platform with Markdown",
+    "description": "Markdown editor, tags, comments and SEO-friendly pages.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Authentication"
+    ],
+    "difficulty": 2,
+    "hours": 45
+  },
+  {
+    "title": "URL Shortener with Analytics",
+    "description": "Short links with click tracking, Redis cache and a stats dashboard.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "Redis",
+      "MongoDB",
+      "REST API Design"
+    ],
+    "difficulty": 2,
+    "hours": 25
+  },
+  {
+    "title": "REST API for a Library System",
+    "description": "Documented CRUD API with auth, pagination and automated tests.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "SQL",
+      "PostgreSQL",
+      "Unit Testing",
+      "Documentation"
+    ],
+    "difficulty": 2,
+    "hours": 30
+  },
+  {
+    "title": "GraphQL Social Feed",
+    "description": "Posts, likes and follows served via a typed GraphQL schema.",
+    "skills": [
+      "GraphQL",
+      "Node.js",
+      "MongoDB",
+      "TypeScript",
+      "Authentication"
+    ],
+    "difficulty": 3,
+    "hours": 50
+  },
+  {
+    "title": "Microservices Food Delivery",
+    "description": "Orders, payments and notifications as independent services.",
+    "skills": [
+      "Microservices",
+      "Docker",
+      "Node.js",
+      "REST API Design",
+      "Redis"
+    ],
+    "difficulty": 3,
+    "hours": 90
+  },
+  {
+    "title": "Component Library with Storybook",
+    "description": "Accessible, documented React components published to npm.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Design Systems",
+      "Accessibility",
+      "Unit Testing"
+    ],
+    "difficulty": 2,
+    "hours": 40
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "Search any city, charts for forecast, caching of API calls.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Data Visualization",
+      "REST API Design"
+    ],
+    "difficulty": 1,
+    "hours": 18
+  },
+  {
+    "title": "Sales Analytics Dashboard",
+    "description": "Clean a sales dataset with SQL/pandas and build an interactive dashboard.",
+    "skills": [
+      "SQL",
+      "Pandas",
+      "Excel",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "difficulty": 2,
+    "hours": 30
+  },
+  {
+    "title": "COVID / Public Data Explorer",
+    "description": "Exploratory analysis on an open dataset with a written findings report.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Data Visualization",
+      "Statistics",
+      "Communication"
+    ],
+    "difficulty": 1,
+    "hours": 25
+  },
+  {
+    "title": "Customer Churn Predictor",
+    "description": "End-to-end classification model with evaluation and explanation.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Machine Learning",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "difficulty": 2,
+    "hours": 35
+  },
+  {
+    "title": "House Price Prediction",
+    "description": "Regression with feature engineering and cross-validation.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "difficulty": 1,
+    "hours": 20
+  },
+  {
+    "title": "Image Classifier Web App",
+    "description": "Train a CNN and serve predictions behind a small API.",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "TensorFlow",
+      "Flask",
+      "Docker"
+    ],
+    "difficulty": 3,
+    "hours": 60
+  },
+  {
+    "title": "Sentiment Analysis on Reviews",
+    "description": "Fine-tune or apply a transformer to classify product reviews.",
+    "skills": [
+      "Python",
+      "NLP",
+      "PyTorch",
+      "Machine Learning"
+    ],
+    "difficulty": 2,
+    "hours": 35
+  },
+  {
+    "title": "Resume Screening Assistant",
+    "description": "LLM-powered resume summariser with embeddings-based search.",
+    "skills": [
+      "Python",
+      "LLMs",
+      "NLP",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "difficulty": 3,
+    "hours": 55
+  },
+  {
+    "title": "RAG Chatbot over Your Docs",
+    "description": "Chat with PDFs using a vector store and an LLM.",
+    "skills": [
+      "Python",
+      "LLMs",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "difficulty": 3,
+    "hours": 50
+  },
+  {
+    "title": "ML Model Deployment Pipeline",
+    "description": "Containerise a model, add CI/CD and monitoring.",
+    "skills": [
+      "MLOps",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "Monitoring"
+    ],
+    "difficulty": 3,
+    "hours": 55
+  },
+  {
+    "title": "ETL Pipeline with Airflow",
+    "description": "Ingest, transform and load daily data into a warehouse.",
+    "skills": [
+      "Data Engineering",
+      "Python",
+      "SQL",
+      "Apache Spark",
+      "Data Warehousing"
+    ],
+    "difficulty": 3,
+    "hours": 60
+  },
+  {
+    "title": "Dockerised Multi-tier App",
+    "description": "Containerise frontend, API and database with docker compose.",
+    "skills": [
+      "Docker",
+      "Linux",
+      "Nginx",
+      "Git"
+    ],
+    "difficulty": 1,
+    "hours": 20
+  },
+  {
+    "title": "CI/CD Pipeline for a Web App",
+    "description": "Lint, test, build and deploy automatically on every push.",
+    "skills": [
+      "CI/CD",
+      "Git",
+      "Docker",
+      "Linux",
+      "Unit Testing"
+    ],
+    "difficulty": 2,
+    "hours": 25
+  },
+  {
+    "title": "Kubernetes Cluster Deployment",
+    "description": "Deploy and scale a service with probes, secrets and ingress.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Linux",
+      "Monitoring"
+    ],
+    "difficulty": 3,
+    "hours": 45
+  },
+  {
+    "title": "Cloud Infrastructure with Terraform",
+    "description": "Provision a VPC, compute and database as code on AWS.",
+    "skills": [
+      "Terraform",
+      "AWS",
+      "Networking",
+      "Linux"
+    ],
+    "difficulty": 3,
+    "hours": 50
+  },
+  {
+    "title": "Monitoring Stack",
+    "description": "Prometheus + Grafana dashboards and alerts for a sample service.",
+    "skills": [
+      "Monitoring",
+      "Linux",
+      "Docker",
+      "Networking"
+    ],
+    "difficulty": 2,
+    "hours": 25
+  },
+  {
+    "title": "Expense Tracker Mobile App",
+    "description": "Offline-first expense app with charts and cloud sync.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "UI Design"
+    ],
+    "difficulty": 2,
+    "hours": 45
+  },
+  {
+    "title": "Fitness Tracker App",
+    "description": "Track workouts with React Native and a small backend.",
+    "skills": [
+      "React Native",
+      "JavaScript",
+      "REST API Design",
+      "Firebase"
+    ],
+    "difficulty": 2,
+    "hours": 50
+  },
+  {
+    "title": "Android Notes App",
+    "description": "Native notes app with local storage and search.",
+    "skills": [
+      "Kotlin",
+      "Android Development",
+      "Unit Testing"
+    ],
+    "difficulty": 2,
+    "hours": 35
+  },
+  {
+    "title": "Vulnerability Scanner Lab",
+    "description": "Scan a deliberately vulnerable app and write a remediation report.",
+    "skills": [
+      "Ethical Hacking",
+      "Web Security",
+      "Linux",
+      "Networking",
+      "Documentation"
+    ],
+    "difficulty": 2,
+    "hours": 30
+  },
+  {
+    "title": "SIEM Home Lab",
+    "description": "Ship logs into Splunk/ELK, build detections and an incident playbook.",
+    "skills": [
+      "SIEM",
+      "Incident Response",
+      "Linux",
+      "Networking"
+    ],
+    "difficulty": 3,
+    "hours": 45
+  },
+  {
+    "title": "Password Manager (Crypto)",
+    "description": "Client-side encrypted vault with strong key derivation.",
+    "skills": [
+      "Cryptography",
+      "Authentication",
+      "JavaScript",
+      "Web Security"
+    ],
+    "difficulty": 3,
+    "hours": 40
+  },
+  {
+    "title": "Mobile Banking App Redesign",
+    "description": "Research, wireframe and prototype a redesigned banking flow.",
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Wireframing",
+      "UI Design",
+      "Accessibility"
+    ],
+    "difficulty": 2,
+    "hours": 35
+  },
+  {
+    "title": "Design System in Figma",
+    "description": "Tokens, components and usage guidelines for a fictional brand.",
+    "skills": [
+      "Figma",
+      "Design Systems",
+      "UI Design",
+      "Accessibility"
+    ],
+    "difficulty": 2,
+    "hours": 35
+  },
+  {
+    "title": "2D Platformer Game",
+    "description": "Complete Unity platformer with levels, enemies and a menu.",
+    "skills": [
+      "Unity",
+      "C#",
+      "Object-Oriented Programming",
+      "Problem Solving"
+    ],
+    "difficulty": 2,
+    "hours": 60
+  },
+  {
+    "title": "3D Environment Demo",
+    "description": "Blender scene imported into Unreal with lighting and interaction.",
+    "skills": [
+      "Unreal Engine",
+      "3D Modeling",
+      "C++"
+    ],
+    "difficulty": 3,
+    "hours": 70
+  },
+  {
+    "title": "Automated E2E Test Suite",
+    "description": "Playwright/Cypress tests with CI reporting for a demo shop.",
+    "skills": [
+      "Test Automation",
+      "JavaScript",
+      "CI/CD",
+      "Git",
+      "Agile"
+    ],
+    "difficulty": 2,
+    "hours": 30
+  },
+  {
+    "title": "Algorithm Visualiser",
+    "description": "Interactive sorting and pathfinding visualisations.",
+    "skills": [
+      "Data Structures & Algorithms",
+      "JavaScript",
+      "React",
+      "Problem Solving"
+    ],
+    "difficulty": 1,
+    "hours": 25
+  },
+  {
+    "title": "Skill-Based Job Matcher",
+    "description": "Match resumes to job posts by skill graph overlap.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Database Design"
+    ],
+    "difficulty": 2,
+    "hours": 40
+  }
+]

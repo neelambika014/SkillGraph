@@ -1,0 +1,109 @@
+name,domain,group,aliases,prerequisites,docs
+HTML,Web Development,Frontend,html5,,https://developer.mozilla.org/en-US/docs/Learn/HTML
+CSS,Web Development,Frontend,css3,HTML,https://developer.mozilla.org/en-US/docs/Learn/CSS
+JavaScript,Web Development,Frontend,js;ecmascript;es6;vanilla js,HTML,https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+TypeScript,Web Development,Frontend,,JavaScript,https://www.typescriptlang.org/docs
+React,Web Development,Frontend,reactjs;react.js,JavaScript,https://react.dev
+Next.js,Web Development,Frontend,nextjs,React,https://nextjs.org/docs
+Vue.js,Web Development,Frontend,vue;vuejs,JavaScript,https://vuejs.org/guide
+Angular,Web Development,Frontend,angularjs,TypeScript,https://angular.dev
+Redux,Web Development,Frontend,redux toolkit;zustand,React,https://redux-toolkit.js.org
+Tailwind CSS,Web Development,Frontend,tailwind;tailwindcss,CSS,https://tailwindcss.com/docs
+Bootstrap,Web Development,Frontend,,CSS,https://getbootstrap.com/docs
+Responsive Design,Web Development,Frontend,responsive web design;mobile-first;media queries,CSS,https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+Webpack,Web Development,Frontend,vite;bundler;bundlers;babel,JavaScript,https://webpack.js.org/concepts
+Node.js,Web Development,Backend,nodejs;node js,JavaScript,https://nodejs.org/en/learn
+Express.js,Web Development,Backend,expressjs;express js,Node.js,https://expressjs.com
+REST API Design,Web Development,Backend,restful;rest api;rest apis;api design;api development;web services,,https://restfulapi.net
+GraphQL,Web Development,Backend,apollo graphql;apollo server,REST API Design,https://graphql.org/learn
+Authentication,Web Development,Backend,auth;jwt;oauth;oauth2;json web token;session management;authorization;passport.js,,https://owasp.org/www-project-authentication-cheat-sheet
+WebSockets,Web Development,Backend,websocket;socket.io,Node.js,https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+Django,Web Development,Backend,django rest framework,Python,https://docs.djangoproject.com
+Flask,Web Development,Backend,,Python,https://flask.palletsprojects.com
+FastAPI,Web Development,Backend,,Python,https://fastapi.tiangolo.com
+Spring Boot,Web Development,Backend,springboot;spring framework;spring mvc,Java,https://spring.io/guides
+Microservices,Web Development,Backend,microservice;microservices architecture,REST API Design,https://microservices.io
+SQL,Databases,Relational,structured query language;sql queries,,https://www.w3schools.com/sql
+MySQL,Databases,Relational,,SQL,https://dev.mysql.com/doc
+PostgreSQL,Databases,Relational,postgres;psql,SQL,https://www.postgresql.org/docs
+MongoDB,Databases,NoSQL,mongo;mongoose;mongo db;nosql,,https://www.mongodb.com/docs
+Redis,Databases,NoSQL,,,https://redis.io/docs
+Elasticsearch,Databases,NoSQL,elastic search;elk stack,,https://www.elastic.co/guide
+Firebase,Databases,NoSQL,firestore,,https://firebase.google.com/docs
+Database Design,Databases,Design,schema design;data modeling;data modelling;normalization;erd;er diagram,,https://www.mongodb.com/docs/manual/data-modeling
+Data Warehousing,Databases,Analytics,snowflake;bigquery;redshift;data warehouse,SQL,https://cloud.google.com/bigquery/docs
+Python,Programming Languages,Languages,python3,,https://docs.python.org/3/tutorial
+Java,Programming Languages,Languages,core java,,https://dev.java/learn
+C,Programming Languages,Languages,c programming,,https://www.learn-c.org
+C++,Programming Languages,Languages,cpp,C,https://en.cppreference.com
+C#,Programming Languages,Languages,csharp;.net;dotnet,,https://learn.microsoft.com/dotnet/csharp
+Go,Programming Languages,Languages,golang,,https://go.dev/doc
+Rust,Programming Languages,Languages,,,https://doc.rust-lang.org/book
+PHP,Programming Languages,Languages,laravel,,https://www.php.net/manual
+Ruby,Programming Languages,Languages,ruby on rails;rails,,https://www.ruby-lang.org/en/documentation
+Kotlin,Programming Languages,Languages,,Java,https://kotlinlang.org/docs
+Swift,Programming Languages,Languages,,,https://www.swift.org/documentation
+Dart,Programming Languages,Languages,,,https://dart.dev/guides
+R,Programming Languages,Languages,r programming;rstudio,,https://www.r-project.org/other-docs.html
+Data Structures & Algorithms,Programming Languages,CS Fundamentals,dsa;algorithms;data structures;leetcode;competitive programming,,https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms
+Object-Oriented Programming,Programming Languages,CS Fundamentals,oop;object oriented programming;object oriented design,,https://www.freecodecamp.org/news/object-oriented-programming-concepts
+Operating Systems,Programming Languages,CS Fundamentals,os concepts;process scheduling;memory management,,https://pages.cs.wisc.edu/~remzi/OSTEP
+Excel,Data Science & AI,Data Analysis,microsoft excel;spreadsheets;pivot tables;google sheets,,https://support.microsoft.com/excel
+Statistics,Data Science & AI,Data Analysis,statistical analysis;hypothesis testing;probability;a/b testing,,https://www.khanacademy.org/math/statistics-probability
+Pandas,Data Science & AI,Data Analysis,,Python,https://pandas.pydata.org/docs
+NumPy,Data Science & AI,Data Analysis,,Python,https://numpy.org/doc
+Data Visualization,Data Science & AI,Data Analysis,matplotlib;seaborn;plotly;tableau;power bi;powerbi;data viz;d3.js;dashboards,,https://www.data-to-viz.com
+Machine Learning,Data Science & AI,Machine Learning,ml;scikit-learn;sklearn;supervised learning;xgboost;random forest,Python;Statistics,https://scikit-learn.org/stable/user_guide.html
+Deep Learning,Data Science & AI,Machine Learning,neural networks;neural network;cnn;rnn;lstm;transformers,Machine Learning,https://www.deeplearning.ai
+TensorFlow,Data Science & AI,Machine Learning,keras;tensorflow lite,Deep Learning,https://www.tensorflow.org/learn
+PyTorch,Data Science & AI,Machine Learning,torch,Deep Learning,https://pytorch.org/tutorials
+NLP,Data Science & AI,Machine Learning,natural language processing;text mining;spacy;nltk;hugging face,Machine Learning,https://huggingface.co/learn/nlp-course
+Computer Vision,Data Science & AI,Machine Learning,opencv;image processing;object detection;yolo,Deep Learning,https://docs.opencv.org
+LLMs,Data Science & AI,Generative AI,large language models;llm;prompt engineering;openai api;langchain;rag;retrieval augmented generation;generative ai;vector database,NLP,https://platform.openai.com/docs
+MLOps,Data Science & AI,Machine Learning,mlflow;model deployment;model serving;kubeflow,Machine Learning;Docker,https://ml-ops.org
+Data Engineering,Data Science & AI,Data Engineering,etl;airflow;data pipelines;data pipeline;dbt,SQL;Python,https://airflow.apache.org/docs
+Apache Spark,Data Science & AI,Data Engineering,spark;pyspark,Python;SQL,https://spark.apache.org/docs/latest
+Apache Kafka,Data Science & AI,Data Engineering,kafka,,https://kafka.apache.org/documentation
+Git,DevOps & Cloud,Fundamentals,github;gitlab;version control;bitbucket,,https://git-scm.com/doc
+Linux,DevOps & Cloud,Fundamentals,bash;shell scripting;unix;ubuntu;shell,,https://linuxjourney.com
+Networking,DevOps & Cloud,Fundamentals,tcp/ip;dns;http protocol;computer networks;load balancing,,https://www.cloudflare.com/learning
+Docker,DevOps & Cloud,Containers,containers;dockerfile;docker compose;containerization,Linux,https://docs.docker.com
+Kubernetes,DevOps & Cloud,Containers,k8s;helm,Docker,https://kubernetes.io/docs
+CI/CD,DevOps & Cloud,Automation,github actions;jenkins;gitlab ci;continuous integration;continuous deployment;circleci,Git,https://docs.github.com/actions
+AWS,DevOps & Cloud,Cloud,amazon web services;ec2;s3;aws lambda;cloudformation,Linux,https://docs.aws.amazon.com
+Azure,DevOps & Cloud,Cloud,microsoft azure,,https://learn.microsoft.com/azure
+Google Cloud,DevOps & Cloud,Cloud,gcp;google cloud platform,,https://cloud.google.com/docs
+Terraform,DevOps & Cloud,Infrastructure,infrastructure as code;iac;pulumi,AWS,https://developer.hashicorp.com/terraform/docs
+Ansible,DevOps & Cloud,Infrastructure,,Linux,https://docs.ansible.com
+Monitoring,DevOps & Cloud,Observability,prometheus;grafana;observability;datadog;logging,Linux,https://prometheus.io/docs
+Nginx,DevOps & Cloud,Web Servers,reverse proxy;web server,Linux,https://nginx.org/en/docs
+React Native,Mobile Development,Cross-platform,react-native;expo,React,https://reactnative.dev/docs/getting-started
+Flutter,Mobile Development,Cross-platform,,Dart,https://docs.flutter.dev
+Android Development,Mobile Development,Native,android;android studio;jetpack compose,Kotlin,https://developer.android.com/courses
+iOS Development,Mobile Development,Native,ios;xcode;swiftui;uikit,Swift,https://developer.apple.com/tutorials/app-dev-training
+Network Security,Cybersecurity,Defense,firewall;firewalls;vpn;ids;ips;intrusion detection,Networking,https://www.cisco.com/c/en/us/products/security/what-is-network-security.html
+Ethical Hacking,Cybersecurity,Offense,penetration testing;pentest;pentesting;kali linux;burp suite;metasploit;ctf,Networking;Linux,https://tryhackme.com
+Web Security,Cybersecurity,Defense,owasp;xss;csrf;sql injection;owasp top 10,Networking,https://owasp.org/www-project-top-ten
+Cryptography,Cybersecurity,Fundamentals,encryption;pki;hashing;tls,,https://www.coursera.org/learn/crypto
+SIEM,Cybersecurity,Defense,splunk;security monitoring;soc;log analysis,Networking,https://www.splunk.com/en_us/training.html
+Incident Response,Cybersecurity,Defense,digital forensics;threat hunting;malware analysis,SIEM,https://www.sans.org/blog/incident-response-resources
+Figma,UI/UX Design,Tools,figma design;adobe xd;sketch app,,https://help.figma.com
+UI Design,UI/UX Design,Design,ui;visual design;user interface design;typography;color theory,,https://www.nngroup.com/articles
+UX Research,UI/UX Design,Research,user research;usability testing;personas;user interviews;user journey,,https://www.nngroup.com/articles/ux-research-cheat-sheet
+Wireframing,UI/UX Design,Design,prototyping;wireframes;low-fidelity;mockups,,https://www.interaction-design.org/literature/topics/wireframing
+Design Systems,UI/UX Design,Design,design system;component library;design tokens;storybook,UI Design,https://www.designsystems.com
+Accessibility,UI/UX Design,Design,a11y;wcag;aria;screen reader,,https://www.w3.org/WAI/fundamentals
+Unit Testing,Software Engineering,Quality,jest;mocha;pytest;junit;tdd;test-driven development;unit tests;vitest,,https://jestjs.io/docs/getting-started
+Test Automation,Software Engineering,Quality,selenium;cypress;playwright;qa automation;automated testing;appium;e2e testing,,https://playwright.dev/docs/intro
+Agile,Software Engineering,Process,scrum;kanban;jira;sprint planning,,https://agilemanifesto.org
+Design Patterns,Software Engineering,Design,solid principles;gang of four,Object-Oriented Programming,https://refactoring.guru/design-patterns
+System Design,Software Engineering,Architecture,distributed systems;scalability;high availability;system architecture,,https://github.com/donnemartin/system-design-primer
+Documentation,Software Engineering,Process,technical writing;api documentation;swagger;openapi,,https://www.writethedocs.org/guide
+Unity,Game Development,Engines,unity3d;unity engine,C#,https://learn.unity.com
+Unreal Engine,Game Development,Engines,unreal;ue5;blueprints,C++,https://dev.epicgames.com/community/unreal-engine/learning
+3D Modeling,Game Development,Art,blender;maya;3d modelling;3ds max,,https://www.blender.org/support/tutorials
+Communication,Soft Skills,Interpersonal,communication skills;public speaking;presentation skills;written communication,,
+Teamwork,Soft Skills,Interpersonal,team player;collaboration;cross-functional,,
+Leadership,Soft Skills,Interpersonal,team lead;mentoring;led a team;team leadership,,
+Problem Solving,Soft Skills,Cognitive,analytical thinking;critical thinking;troubleshooting;debugging,,
+Project Management,Soft Skills,Management,project planning;stakeholder management;product management;roadmapping,,

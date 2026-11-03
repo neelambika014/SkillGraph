@@ -1,0 +1,40 @@
+title,description,skills,difficulty,hours
+Personal Portfolio Website,"Responsive portfolio with project gallery, contact form and dark mode.",HTML;CSS;JavaScript;Responsive Design,1,15
+Task Manager with Auth,"Kanban-style task app with sign-up, JWT login and per-user boards.",React;Node.js;Express.js;MongoDB;Authentication;REST API Design,2,40
+E-commerce Storefront,"Product catalogue, cart, checkout flow and admin panel.",Next.js;React;MongoDB;Authentication;REST API Design;Database Design,3,80
+Real-time Chat App,"Rooms, typing indicators and message history over websockets.",Node.js;WebSockets;React;MongoDB,2,35
+Blog Platform with Markdown,"Markdown editor, tags, comments and SEO-friendly pages.",Next.js;TypeScript;PostgreSQL;Authentication,2,45
+URL Shortener with Analytics,"Short links with click tracking, Redis cache and a stats dashboard.",Node.js;Express.js;Redis;MongoDB;REST API Design,2,25
+REST API for a Library System,"Documented CRUD API with auth, pagination and automated tests.",Node.js;Express.js;SQL;PostgreSQL;Unit Testing;Documentation,2,30
+GraphQL Social Feed,"Posts, likes and follows served via a typed GraphQL schema.",GraphQL;Node.js;MongoDB;TypeScript;Authentication,3,50
+Microservices Food Delivery,"Orders, payments and notifications as independent services.",Microservices;Docker;Node.js;REST API Design;Redis,3,90
+Component Library with Storybook,"Accessible, documented React components published to npm.",React;TypeScript;Design Systems;Accessibility;Unit Testing,2,40
+Weather Dashboard,"Search any city, charts for forecast, caching of API calls.",JavaScript;React;Data Visualization;REST API Design,1,18
+Sales Analytics Dashboard,Clean a sales dataset with SQL/pandas and build an interactive dashboard.,SQL;Pandas;Excel;Data Visualization;Statistics,2,30
+COVID / Public Data Explorer,Exploratory analysis on an open dataset with a written findings report.,Python;Pandas;NumPy;Data Visualization;Statistics;Communication,1,25
+Customer Churn Predictor,End-to-end classification model with evaluation and explanation.,Python;Pandas;Machine Learning;Statistics;Data Visualization,2,35
+House Price Prediction,Regression with feature engineering and cross-validation.,Python;Pandas;NumPy;Machine Learning,1,20
+Image Classifier Web App,Train a CNN and serve predictions behind a small API.,Python;Deep Learning;TensorFlow;Flask;Docker,3,60
+Sentiment Analysis on Reviews,Fine-tune or apply a transformer to classify product reviews.,Python;NLP;PyTorch;Machine Learning,2,35
+Resume Screening Assistant,LLM-powered resume summariser with embeddings-based search.,Python;LLMs;NLP;FastAPI;PostgreSQL,3,55
+RAG Chatbot over Your Docs,Chat with PDFs using a vector store and an LLM.,Python;LLMs;FastAPI;Redis;Docker,3,50
+ML Model Deployment Pipeline,"Containerise a model, add CI/CD and monitoring.",MLOps;Docker;CI/CD;Python;Monitoring,3,55
+ETL Pipeline with Airflow,"Ingest, transform and load daily data into a warehouse.",Data Engineering;Python;SQL;Apache Spark;Data Warehousing,3,60
+Dockerised Multi-tier App,"Containerise frontend, API and database with docker compose.",Docker;Linux;Nginx;Git,1,20
+CI/CD Pipeline for a Web App,"Lint, test, build and deploy automatically on every push.",CI/CD;Git;Docker;Linux;Unit Testing,2,25
+Kubernetes Cluster Deployment,"Deploy and scale a service with probes, secrets and ingress.",Kubernetes;Docker;Linux;Monitoring,3,45
+Cloud Infrastructure with Terraform,"Provision a VPC, compute and database as code on AWS.",Terraform;AWS;Networking;Linux,3,50
+Monitoring Stack,Prometheus + Grafana dashboards and alerts for a sample service.,Monitoring;Linux;Docker;Networking,2,25
+Expense Tracker Mobile App,Offline-first expense app with charts and cloud sync.,Flutter;Dart;Firebase;UI Design,2,45
+Fitness Tracker App,Track workouts with React Native and a small backend.,React Native;JavaScript;REST API Design;Firebase,2,50
+Android Notes App,Native notes app with local storage and search.,Kotlin;Android Development;Unit Testing,2,35
+Vulnerability Scanner Lab,Scan a deliberately vulnerable app and write a remediation report.,Ethical Hacking;Web Security;Linux;Networking;Documentation,2,30
+SIEM Home Lab,"Ship logs into Splunk/ELK, build detections and an incident playbook.",SIEM;Incident Response;Linux;Networking,3,45
+Password Manager (Crypto),Client-side encrypted vault with strong key derivation.,Cryptography;Authentication;JavaScript;Web Security,3,40
+Mobile Banking App Redesign,"Research, wireframe and prototype a redesigned banking flow.",Figma;UX Research;Wireframing;UI Design;Accessibility,2,35
+Design System in Figma,"Tokens, components and usage guidelines for a fictional brand.",Figma;Design Systems;UI Design;Accessibility,2,35
+2D Platformer Game,"Complete Unity platformer with levels, enemies and a menu.",Unity;C#;Object-Oriented Programming;Problem Solving,2,60
+3D Environment Demo,Blender scene imported into Unreal with lighting and interaction.,Unreal Engine;3D Modeling;C++,3,70
+Automated E2E Test Suite,Playwright/Cypress tests with CI reporting for a demo shop.,Test Automation;JavaScript;CI/CD;Git;Agile,2,30
+Algorithm Visualiser,Interactive sorting and pathfinding visualisations.,Data Structures & Algorithms;JavaScript;React;Problem Solving,1,25
+Skill-Based Job Matcher,Match resumes to job posts by skill graph overlap.,Python;Pandas;SQL;Machine Learning;Database Design,2,40

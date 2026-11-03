@@ -1,0 +1,32 @@
+Rahul Verma
+Data Analyst | Aspiring Data Scientist
+rahul.verma@example.com
+https://github.com/rahulv-data
+
+PROFILE
+Analytics graduate with 1 year of professional experience turning data into decisions.
+
+TECHNICAL SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Tableau, Power BI, Excel, Statistics, A/B testing
+Basic knowledge of TensorFlow and deep learning
+
+PROJECTS
+Customer Churn Prediction
+- Built a random forest and XGBoost model in Python with scikit-learn, 87% accuracy
+- Cleaned data with Pandas and SQL, visualised results in Tableau
+Sales Dashboard
+- Power BI dashboard on a PostgreSQL warehouse with weekly refresh
+
+EXPERIENCE
+Data Analyst Intern, FinCore (2025)
+- Wrote complex SQL queries and automated Excel reports with Python
+- Presented insights to leadership; strong communication skills
+
+EDUCATION
+M.Sc. Statistics, University of Pune, 2025
+
+CERTIFICATIONS
+Google Data Analytics Certificate, Coursera, 2024
+
+HOBBIES
+Cricket, investing, reading

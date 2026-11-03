@@ -1,0 +1,2012 @@
+candidate_id,skill,domain,level
+1,Python,Programming Languages,2
+1,Machine Learning,Data Science & AI,1
+1,FastAPI,Web Development,2
+1,REST API Design,Web Development,1
+1,Docker,DevOps & Cloud,1
+1,PostgreSQL,Databases,2
+1,Git,DevOps & Cloud,1
+1,AWS,DevOps & Cloud,2
+1,Data Visualization,Data Science & AI,3
+1,Problem Solving,Soft Skills,3
+1,Teamwork,Soft Skills,3
+1,Networking,DevOps & Cloud,1
+1,Monitoring,DevOps & Cloud,1
+1,Linux,DevOps & Cloud,1
+2,AWS,DevOps & Cloud,3
+2,Linux,DevOps & Cloud,2
+2,Networking,DevOps & Cloud,3
+2,Terraform,DevOps & Cloud,4
+2,Kubernetes,DevOps & Cloud,3
+2,CI/CD,DevOps & Cloud,4
+2,Python,Programming Languages,2
+2,Monitoring,DevOps & Cloud,1
+2,Nginx,DevOps & Cloud,3
+2,Docker,DevOps & Cloud,1
+3,Linux,DevOps & Cloud,2
+3,Git,DevOps & Cloud,2
+3,Kubernetes,DevOps & Cloud,1
+3,CI/CD,DevOps & Cloud,3
+3,Networking,DevOps & Cloud,1
+3,Nginx,DevOps & Cloud,1
+3,Monitoring,DevOps & Cloud,1
+3,Problem Solving,Soft Skills,3
+3,Communication,Soft Skills,1
+3,Teamwork,Soft Skills,2
+3,Project Management,Soft Skills,1
+3,Terraform,DevOps & Cloud,1
+3,AWS,DevOps & Cloud,1
+3,Docker,DevOps & Cloud,1
+4,Python,Programming Languages,2
+4,Pandas,Data Science & AI,4
+4,Statistics,Data Science & AI,2
+4,Machine Learning,Data Science & AI,4
+4,NLP,Data Science & AI,1
+4,Git,DevOps & Cloud,2
+4,Apache Kafka,Data Science & AI,2
+4,Computer Vision,Data Science & AI,3
+4,Data Visualization,Data Science & AI,3
+4,Problem Solving,Soft Skills,1
+4,Communication,Soft Skills,1
+4,Teamwork,Soft Skills,1
+4,R,Programming Languages,1
+4,SQL,Databases,1
+4,Excel,Data Science & AI,1
+5,Figma,UI/UX Design,4
+5,UX Research,UI/UX Design,1
+5,Design Systems,UI/UX Design,2
+5,Accessibility,UI/UX Design,2
+5,Communication,Soft Skills,2
+5,Wireframing,UI/UX Design,1
+5,Documentation,Software Engineering,1
+5,UI Design,UI/UX Design,1
+6,Excel,Data Science & AI,2
+6,Python,Programming Languages,3
+6,Pandas,Data Science & AI,2
+6,Data Warehousing,Databases,2
+6,Data Visualization,Data Science & AI,2
+6,Git,DevOps & Cloud,2
+6,Problem Solving,Soft Skills,2
+6,Communication,Soft Skills,3
+6,Apache Spark,Data Science & AI,1
+6,Machine Learning,Data Science & AI,1
+6,Statistics,Data Science & AI,1
+7,Python,Programming Languages,2
+7,Machine Learning,Data Science & AI,1
+7,PostgreSQL,Databases,1
+7,Git,DevOps & Cloud,1
+7,AWS,DevOps & Cloud,2
+7,MLOps,Data Science & AI,3
+7,LLMs,Data Science & AI,3
+7,Pandas,Data Science & AI,1
+7,Teamwork,Soft Skills,2
+7,Data Structures & Algorithms,Programming Languages,1
+7,NumPy,Data Science & AI,1
+7,NLP,Data Science & AI,1
+7,PyTorch,Data Science & AI,1
+8,Test Automation,Software Engineering,3
+8,Git,DevOps & Cloud,3
+8,CI/CD,DevOps & Cloud,2
+8,REST API Design,Web Development,1
+8,SQL,Databases,1
+8,Unit Testing,Software Engineering,2
+8,Agile,Software Engineering,2
+8,Problem Solving,Soft Skills,2
+8,Communication,Soft Skills,1
+8,Teamwork,Soft Skills,1
+8,Design Systems,UI/UX Design,1
+8,JavaScript,Web Development,1
+8,Docker,DevOps & Cloud,1
+8,Linux,DevOps & Cloud,1
+9,Networking,DevOps & Cloud,4
+9,Linux,DevOps & Cloud,3
+9,Network Security,Cybersecurity,3
+9,Ethical Hacking,Cybersecurity,2
+9,Cryptography,Cybersecurity,2
+9,Incident Response,Cybersecurity,1
+9,Authentication,Web Development,1
+9,Communication,Soft Skills,2
+9,SIEM,Cybersecurity,3
+9,Web Security,Cybersecurity,2
+9,Microservices,Web Development,1
+9,JavaScript,Web Development,1
+10,Python,Programming Languages,3
+10,Machine Learning,Data Science & AI,3
+10,Data Engineering,Data Science & AI,1
+10,SQL,Databases,1
+10,AWS,DevOps & Cloud,1
+10,NLP,Data Science & AI,2
+10,Unit Testing,Software Engineering,1
+10,LLMs,Data Science & AI,2
+10,MLOps,Data Science & AI,2
+10,Communication,Soft Skills,2
+10,Operating Systems,Programming Languages,1
+10,Apache Spark,Data Science & AI,1
+10,Data Warehousing,Databases,1
+10,Pandas,Data Science & AI,1
+10,Database Design,Databases,1
+11,Kotlin,Programming Languages,1
+11,Dart,Programming Languages,3
+11,REST API Design,Web Development,2
+11,Unit Testing,Software Engineering,1
+11,Flutter,Mobile Development,3
+11,iOS Development,Mobile Development,3
+11,React Native,Mobile Development,3
+11,Problem Solving,Soft Skills,1
+11,Communication,Soft Skills,3
+11,Machine Learning,Data Science & AI,1
+11,Firebase,Databases,1
+11,UI Design,UI/UX Design,1
+12,Node.js,Web Development,3
+12,Express.js,Web Development,2
+12,Python,Programming Languages,2
+12,REST API Design,Web Development,3
+12,PostgreSQL,Databases,3
+12,MongoDB,Databases,4
+12,Database Design,Databases,3
+12,Docker,DevOps & Cloud,2
+12,Git,DevOps & Cloud,3
+12,Unit Testing,Software Engineering,3
+12,System Design,Software Engineering,2
+12,GraphQL,Web Development,2
+12,Linux,DevOps & Cloud,3
+12,Next.js,Web Development,1
+12,Communication,Soft Skills,1
+12,Teamwork,Soft Skills,3
+12,Nginx,DevOps & Cloud,1
+13,Kotlin,Programming Languages,3
+13,Android Development,Mobile Development,4
+13,Swift,Programming Languages,3
+13,Flutter,Mobile Development,3
+13,Dart,Programming Languages,4
+13,React Native,Mobile Development,2
+13,REST API Design,Web Development,4
+13,Firebase,Databases,3
+13,Unit Testing,Software Engineering,2
+13,iOS Development,Mobile Development,3
+13,Git,DevOps & Cloud,3
+13,Problem Solving,Soft Skills,3
+13,Communication,Soft Skills,2
+13,UI Design,UI/UX Design,1
+14,Python,Programming Languages,3
+14,Deep Learning,Data Science & AI,3
+14,TensorFlow,Data Science & AI,1
+14,MLOps,Data Science & AI,2
+14,Data Engineering,Data Science & AI,1
+14,NLP,Data Science & AI,1
+14,Data Visualization,Data Science & AI,1
+14,Pandas,Data Science & AI,2
+14,PyTorch,Data Science & AI,1
+14,Machine Learning,Data Science & AI,1
+15,Unity,Game Development,1
+15,C#,Programming Languages,1
+15,C++,Programming Languages,2
+15,3D Modeling,Game Development,1
+15,Data Structures & Algorithms,Programming Languages,2
+15,Object-Oriented Programming,Programming Languages,1
+15,Teamwork,Soft Skills,1
+15,Unreal Engine,Game Development,2
+15,Git,DevOps & Cloud,1
+15,Problem Solving,Soft Skills,1
+16,AWS,DevOps & Cloud,2
+16,Google Cloud,DevOps & Cloud,1
+16,Kubernetes,DevOps & Cloud,2
+16,Monitoring,DevOps & Cloud,1
+16,Git,DevOps & Cloud,2
+16,Azure,DevOps & Cloud,1
+16,Linux,DevOps & Cloud,2
+16,Teamwork,Soft Skills,2
+16,C#,Programming Languages,1
+16,Cryptography,Cybersecurity,1
+16,Docker,DevOps & Cloud,1
+16,Networking,DevOps & Cloud,1
+16,Nginx,DevOps & Cloud,1
+17,Unity,Game Development,2
+17,C#,Programming Languages,2
+17,C++,Programming Languages,2
+17,Unreal Engine,Game Development,2
+17,3D Modeling,Game Development,2
+17,Data Structures & Algorithms,Programming Languages,3
+17,Git,DevOps & Cloud,2
+17,Problem Solving,Soft Skills,3
+17,Teamwork,Soft Skills,2
+17,Communication,Soft Skills,3
+17,MLOps,Data Science & AI,1
+17,Computer Vision,Data Science & AI,1
+17,JavaScript,Web Development,1
+17,React,Web Development,1
+18,Python,Programming Languages,3
+18,Pandas,Data Science & AI,4
+18,Statistics,Data Science & AI,2
+18,Machine Learning,Data Science & AI,4
+18,Data Visualization,Data Science & AI,3
+18,Communication,Soft Skills,1
+18,Excel,Data Science & AI,2
+18,TensorFlow,Data Science & AI,1
+18,Ansible,DevOps & Cloud,1
+18,Docker,DevOps & Cloud,1
+18,SQL,Databases,1
+18,Database Design,Databases,1
+19,Test Automation,Software Engineering,3
+19,Unit Testing,Software Engineering,1
+19,Git,DevOps & Cloud,3
+19,REST API Design,Web Development,1
+19,Agile,Software Engineering,2
+19,Communication,Soft Skills,3
+19,Design Patterns,Software Engineering,2
+19,Documentation,Software Engineering,3
+19,Problem Solving,Soft Skills,1
+19,NumPy,Data Science & AI,1
+19,JavaScript,Web Development,1
+19,CI/CD,DevOps & Cloud,1
+20,SQL,Databases,4
+20,Python,Programming Languages,1
+20,NumPy,Data Science & AI,2
+20,Statistics,Data Science & AI,3
+20,Communication,Soft Skills,1
+20,Problem Solving,Soft Skills,3
+20,Machine Learning,Data Science & AI,3
+20,Deep Learning,Data Science & AI,2
+20,Data Visualization,Data Science & AI,2
+20,Data Engineering,Data Science & AI,2
+20,Git,DevOps & Cloud,1
+20,C,Programming Languages,1
+20,Unit Testing,Software Engineering,1
+20,Pandas,Data Science & AI,1
+21,Pandas,Data Science & AI,2
+21,Data Visualization,Data Science & AI,1
+21,SQL,Databases,1
+21,Deep Learning,Data Science & AI,1
+21,NLP,Data Science & AI,1
+21,Git,DevOps & Cloud,1
+21,Communication,Soft Skills,2
+21,Statistics,Data Science & AI,1
+21,MLOps,Data Science & AI,3
+21,Problem Solving,Soft Skills,1
+21,Excel,Data Science & AI,1
+21,Python,Programming Languages,1
+21,Machine Learning,Data Science & AI,1
+22,C#,Programming Languages,3
+22,C++,Programming Languages,1
+22,3D Modeling,Game Development,1
+22,Teamwork,Soft Skills,1
+22,Unreal Engine,Game Development,1
+22,Problem Solving,Soft Skills,3
+22,Communication,Soft Skills,1
+23,Swift,Programming Languages,1
+23,Dart,Programming Languages,2
+23,Git,DevOps & Cloud,3
+23,Android Development,Mobile Development,1
+23,Problem Solving,Soft Skills,3
+23,Teamwork,Soft Skills,3
+23,Elasticsearch,Databases,1
+23,TensorFlow,Data Science & AI,1
+23,Microservices,Web Development,1
+23,Docker,DevOps & Cloud,1
+23,Node.js,Web Development,1
+23,REST API Design,Web Development,1
+23,Redis,Databases,1
+23,Python,Programming Languages,1
+23,LLMs,Data Science & AI,1
+23,FastAPI,Web Development,1
+24,FastAPI,Web Development,2
+24,REST API Design,Web Development,1
+24,Docker,DevOps & Cloud,1
+24,PostgreSQL,Databases,2
+24,Redis,Databases,2
+24,Git,DevOps & Cloud,3
+24,AWS,DevOps & Cloud,1
+24,System Design,Software Engineering,2
+24,TensorFlow,Data Science & AI,2
+24,Data Engineering,Data Science & AI,1
+24,Communication,Soft Skills,2
+24,Node.js,Web Development,1
+24,Express.js,Web Development,1
+24,MongoDB,Databases,1
+24,Python,Programming Languages,1
+24,LLMs,Data Science & AI,1
+24,Microservices,Web Development,1
+25,Android Development,Mobile Development,3
+25,Swift,Programming Languages,1
+25,Flutter,Mobile Development,1
+25,Firebase,Databases,1
+25,Git,DevOps & Cloud,3
+25,React Native,Mobile Development,1
+25,iOS Development,Mobile Development,1
+25,Communication,Soft Skills,1
+25,Teamwork,Soft Skills,3
+25,Wireframing,UI/UX Design,1
+25,Dart,Programming Languages,1
+25,UI Design,UI/UX Design,1
+26,Figma,UI/UX Design,2
+26,UI Design,UI/UX Design,3
+26,UX Research,UI/UX Design,2
+26,Wireframing,UI/UX Design,4
+26,Accessibility,UI/UX Design,1
+26,HTML,Web Development,1
+26,Design Systems,UI/UX Design,1
+26,Teamwork,Soft Skills,2
+26,Next.js,Web Development,1
+27,Pandas,Data Science & AI,3
+27,NumPy,Data Science & AI,2
+27,Machine Learning,Data Science & AI,3
+27,Data Visualization,Data Science & AI,2
+27,SQL,Databases,1
+27,Deep Learning,Data Science & AI,1
+27,Git,DevOps & Cloud,2
+27,MLOps,Data Science & AI,2
+27,TensorFlow,Data Science & AI,1
+27,Statistics,Data Science & AI,1
+27,Teamwork,Soft Skills,2
+27,Dart,Programming Languages,1
+27,Figma,UI/UX Design,1
+27,Python,Programming Languages,1
+27,Excel,Data Science & AI,1
+28,Python,Programming Languages,2
+28,LLMs,Data Science & AI,2
+28,Machine Learning,Data Science & AI,2
+28,REST API Design,Web Development,2
+28,Git,DevOps & Cloud,3
+28,JavaScript,Web Development,1
+28,System Design,Software Engineering,1
+28,Apache Kafka,Data Science & AI,1
+28,React,Web Development,1
+28,Data Visualization,Data Science & AI,1
+28,Pandas,Data Science & AI,1
+28,NumPy,Data Science & AI,1
+29,Networking,DevOps & Cloud,2
+29,Linux,DevOps & Cloud,1
+29,Web Security,Cybersecurity,1
+29,Cryptography,Cybersecurity,2
+29,Incident Response,Cybersecurity,3
+29,SIEM,Cybersecurity,1
+29,Bootstrap,Web Development,1
+29,Terraform,DevOps & Cloud,1
+29,AWS,DevOps & Cloud,1
+30,Flutter,Mobile Development,3
+30,Dart,Programming Languages,2
+30,REST API Design,Web Development,1
+30,Firebase,Databases,3
+30,Unit Testing,Software Engineering,1
+30,Android Development,Mobile Development,1
+30,Git,DevOps & Cloud,1
+30,Problem Solving,Soft Skills,2
+30,Teamwork,Soft Skills,2
+30,Authentication,Web Development,1
+30,Kotlin,Programming Languages,1
+30,React Native,Mobile Development,1
+30,JavaScript,Web Development,1
+31,Network Security,Cybersecurity,4
+31,Ethical Hacking,Cybersecurity,3
+31,Web Security,Cybersecurity,2
+31,Cryptography,Cybersecurity,1
+31,SIEM,Cybersecurity,3
+31,Authentication,Web Development,1
+31,Communication,Soft Skills,2
+31,Incident Response,Cybersecurity,3
+31,Git,DevOps & Cloud,2
+31,Flutter,Mobile Development,1
+31,Monitoring,DevOps & Cloud,1
+31,Linux,DevOps & Cloud,1
+31,Networking,DevOps & Cloud,1
+32,Docker,DevOps & Cloud,4
+32,Terraform,DevOps & Cloud,3
+32,Ansible,DevOps & Cloud,2
+32,Monitoring,DevOps & Cloud,1
+32,Networking,DevOps & Cloud,3
+32,Linux,DevOps & Cloud,1
+32,Google Cloud,DevOps & Cloud,2
+32,CI/CD,DevOps & Cloud,2
+32,Git,DevOps & Cloud,1
+32,Problem Solving,Soft Skills,3
+32,Unreal Engine,Game Development,1
+32,SIEM,Cybersecurity,1
+32,Incident Response,Cybersecurity,1
+32,Nginx,DevOps & Cloud,1
+33,Unity,Game Development,3
+33,C++,Programming Languages,1
+33,Unreal Engine,Game Development,2
+33,3D Modeling,Game Development,1
+33,Object-Oriented Programming,Programming Languages,1
+33,Problem Solving,Soft Skills,1
+33,Git,DevOps & Cloud,1
+33,Communication,Soft Skills,3
+33,Teamwork,Soft Skills,2
+34,UI Design,UI/UX Design,4
+34,UX Research,UI/UX Design,2
+34,Accessibility,UI/UX Design,3
+34,CSS,Web Development,1
+34,Wireframing,UI/UX Design,1
+34,Figma,UI/UX Design,1
+34,Design Systems,UI/UX Design,2
+34,Git,DevOps & Cloud,1
+34,Communication,Soft Skills,3
+35,Python,Programming Languages,2
+35,Machine Learning,Data Science & AI,3
+35,PyTorch,Data Science & AI,3
+35,Data Engineering,Data Science & AI,1
+35,SQL,Databases,3
+35,Git,DevOps & Cloud,3
+35,AWS,DevOps & Cloud,1
+35,TensorFlow,Data Science & AI,1
+35,NLP,Data Science & AI,2
+35,Problem Solving,Soft Skills,2
+35,Statistics,Data Science & AI,1
+35,Pandas,Data Science & AI,1
+35,Database Design,Databases,1
+36,Figma,UI/UX Design,4
+36,UI Design,UI/UX Design,2
+36,Wireframing,UI/UX Design,2
+36,Design Systems,UI/UX Design,3
+36,HTML,Web Development,2
+36,CSS,Web Development,1
+36,UX Research,UI/UX Design,3
+36,Git,DevOps & Cloud,2
+36,Problem Solving,Soft Skills,3
+36,Communication,Soft Skills,3
+36,Authentication,Web Development,1
+36,Accessibility,UI/UX Design,1
+37,Kotlin,Programming Languages,1
+37,Android Development,Mobile Development,3
+37,Swift,Programming Languages,1
+37,Flutter,Mobile Development,1
+37,Dart,Programming Languages,3
+37,React Native,Mobile Development,1
+37,Firebase,Databases,1
+37,iOS Development,Mobile Development,2
+37,Git,DevOps & Cloud,2
+37,Communication,Soft Skills,3
+37,Teamwork,Soft Skills,3
+37,Design Systems,UI/UX Design,1
+37,UI Design,UI/UX Design,1
+37,JavaScript,Web Development,1
+37,REST API Design,Web Development,1
+38,Node.js,Web Development,4
+38,Express.js,Web Development,2
+38,REST API Design,Web Development,4
+38,Authentication,Web Development,4
+38,MongoDB,Databases,2
+38,Redis,Databases,2
+38,Database Design,Databases,4
+38,Microservices,Web Development,2
+38,Git,DevOps & Cloud,2
+38,Unit Testing,Software Engineering,4
+38,System Design,Software Engineering,3
+38,GraphQL,Web Development,1
+38,React,Web Development,2
+38,Angular,Web Development,1
+38,Pandas,Data Science & AI,1
+38,Ansible,DevOps & Cloud,1
+39,Test Automation,Software Engineering,3
+39,Unit Testing,Software Engineering,1
+39,CI/CD,DevOps & Cloud,3
+39,Agile,Software Engineering,2
+39,Documentation,Software Engineering,1
+39,System Design,Software Engineering,2
+39,Design Patterns,Software Engineering,2
+39,Git,DevOps & Cloud,3
+39,Problem Solving,Soft Skills,2
+39,Communication,Soft Skills,1
+39,Teamwork,Soft Skills,3
+39,Docker,DevOps & Cloud,1
+39,Linux,DevOps & Cloud,1
+40,REST API Design,Web Development,4
+40,Authentication,Web Development,3
+40,SQL,Databases,2
+40,PostgreSQL,Databases,1
+40,MongoDB,Databases,1
+40,Microservices,Web Development,3
+40,Docker,DevOps & Cloud,2
+40,Unit Testing,Software Engineering,2
+40,System Design,Software Engineering,2
+40,GraphQL,Web Development,1
+40,Django,Web Development,1
+40,Next.js,Web Development,1
+40,Teamwork,Soft Skills,1
+40,Node.js,Web Development,1
+40,Express.js,Web Development,1
+40,Documentation,Software Engineering,1
+40,Redis,Databases,1
+41,AWS,DevOps & Cloud,3
+41,Linux,DevOps & Cloud,3
+41,Monitoring,DevOps & Cloud,2
+41,Nginx,DevOps & Cloud,3
+41,Google Cloud,DevOps & Cloud,3
+41,Git,DevOps & Cloud,2
+41,Leadership,Soft Skills,1
+41,Agile,Software Engineering,1
+41,Docker,DevOps & Cloud,1
+41,Networking,DevOps & Cloud,1
+42,Python,Programming Languages,3
+42,NLP,Data Science & AI,2
+42,Machine Learning,Data Science & AI,3
+42,FastAPI,Web Development,2
+42,REST API Design,Web Development,1
+42,Docker,DevOps & Cloud,1
+42,PostgreSQL,Databases,1
+42,Redis,Databases,2
+42,Git,DevOps & Cloud,3
+42,AWS,DevOps & Cloud,1
+42,JavaScript,Web Development,1
+42,Pandas,Data Science & AI,2
+42,Statistics,Data Science & AI,1
+42,Problem Solving,Soft Skills,2
+42,R,Programming Languages,1
+42,React Native,Mobile Development,1
+42,Firebase,Databases,1
+42,NumPy,Data Science & AI,1
+42,LLMs,Data Science & AI,1
+43,Python,Programming Languages,3
+43,NLP,Data Science & AI,3
+43,Machine Learning,Data Science & AI,1
+43,FastAPI,Web Development,1
+43,Docker,DevOps & Cloud,2
+43,Redis,Databases,2
+43,Git,DevOps & Cloud,2
+43,AWS,DevOps & Cloud,1
+43,JavaScript,Web Development,1
+43,System Design,Software Engineering,1
+43,Data Visualization,Data Science & AI,1
+43,Deep Learning,Data Science & AI,3
+43,Excel,Data Science & AI,3
+43,Problem Solving,Soft Skills,3
+43,LLMs,Data Science & AI,1
+43,Data Structures & Algorithms,Programming Languages,1
+43,React,Web Development,1
+43,REST API Design,Web Development,1
+43,TensorFlow,Data Science & AI,1
+43,Flask,Web Development,1
+44,Python,Programming Languages,3
+44,Pandas,Data Science & AI,4
+44,Statistics,Data Science & AI,3
+44,Data Visualization,Data Science & AI,1
+44,Deep Learning,Data Science & AI,2
+44,NLP,Data Science & AI,2
+44,Apache Spark,Data Science & AI,1
+44,Computer Vision,Data Science & AI,3
+44,Git,DevOps & Cloud,3
+44,Problem Solving,Soft Skills,1
+44,Communication,Soft Skills,3
+44,Ethical Hacking,Cybersecurity,1
+44,NumPy,Data Science & AI,1
+44,Machine Learning,Data Science & AI,1
+45,HTML,Web Development,3
+45,CSS,Web Development,3
+45,JavaScript,Web Development,3
+45,TypeScript,Web Development,1
+45,React,Web Development,2
+45,Next.js,Web Development,2
+45,Node.js,Web Development,3
+45,Express.js,Web Development,2
+45,Authentication,Web Development,4
+45,MongoDB,Databases,1
+45,SQL,Databases,2
+45,Database Design,Databases,3
+45,Git,DevOps & Cloud,4
+45,Docker,DevOps & Cloud,1
+45,Responsive Design,Web Development,3
+45,Communication,Soft Skills,3
+45,Spring Boot,Web Development,2
+45,Flask,Web Development,1
+45,Redux,Web Development,3
+45,Teamwork,Soft Skills,2
+45,Pandas,Data Science & AI,1
+45,REST API Design,Web Development,1
+45,GraphQL,Web Development,1
+46,CSS,Web Development,4
+46,JavaScript,Web Development,2
+46,Next.js,Web Development,2
+46,Redux,Web Development,2
+46,Tailwind CSS,Web Development,1
+46,Accessibility,UI/UX Design,2
+46,Webpack,Web Development,2
+46,Figma,UI/UX Design,1
+46,GraphQL,Web Development,3
+46,Bootstrap,Web Development,2
+46,WebSockets,Web Development,2
+46,Git,DevOps & Cloud,2
+46,Problem Solving,Soft Skills,3
+46,Teamwork,Soft Skills,3
+46,Design Systems,UI/UX Design,1
+46,UI Design,UI/UX Design,1
+46,HTML,Web Development,1
+46,Responsive Design,Web Development,1
+46,Data Structures & Algorithms,Programming Languages,1
+46,React,Web Development,1
+47,Node.js,Web Development,3
+47,Express.js,Web Development,4
+47,REST API Design,Web Development,1
+47,Authentication,Web Development,3
+47,SQL,Databases,4
+47,MongoDB,Databases,2
+47,Database Design,Databases,4
+47,Docker,DevOps & Cloud,2
+47,Unit Testing,Software Engineering,3
+47,GraphQL,Web Development,3
+47,Linux,DevOps & Cloud,1
+47,Spring Boot,Web Development,3
+47,Microservices,Web Development,1
+47,Problem Solving,Soft Skills,2
+47,Teamwork,Soft Skills,2
+47,Redis,Databases,1
+47,TypeScript,Web Development,1
+48,Python,Programming Languages,3
+48,Pandas,Data Science & AI,2
+48,Machine Learning,Data Science & AI,2
+48,Data Visualization,Data Science & AI,2
+48,SQL,Databases,1
+48,Data Engineering,Data Science & AI,1
+48,Teamwork,Soft Skills,3
+48,NumPy,Data Science & AI,1
+48,Statistics,Data Science & AI,1
+48,Communication,Soft Skills,1
+49,Python,Programming Languages,3
+49,NumPy,Data Science & AI,2
+49,Data Visualization,Data Science & AI,3
+49,Data Warehousing,Databases,1
+49,Problem Solving,Soft Skills,3
+49,Excel,Data Science & AI,1
+49,PyTorch,Data Science & AI,1
+49,Apache Spark,Data Science & AI,3
+49,Git,DevOps & Cloud,1
+49,Redux,Web Development,1
+49,NLP,Data Science & AI,1
+49,Machine Learning,Data Science & AI,1
+50,HTML,Web Development,1
+50,CSS,Web Development,2
+50,JavaScript,Web Development,3
+50,TypeScript,Web Development,1
+50,Next.js,Web Development,1
+50,Express.js,Web Development,3
+50,Docker,DevOps & Cloud,2
+50,Unit Testing,Software Engineering,1
+50,Communication,Soft Skills,1
+50,WebSockets,Web Development,3
+50,Flask,Web Development,1
+50,Problem Solving,Soft Skills,2
+50,Teamwork,Soft Skills,2
+50,PostgreSQL,Databases,1
+50,Authentication,Web Development,1
+51,Swift,Programming Languages,1
+51,Dart,Programming Languages,3
+51,REST API Design,Web Development,1
+51,Firebase,Databases,2
+51,Git,DevOps & Cloud,2
+51,UI Design,UI/UX Design,2
+51,Flutter,Mobile Development,3
+51,Android Development,Mobile Development,3
+51,Problem Solving,Soft Skills,3
+51,Vue.js,Web Development,1
+52,UX Research,UI/UX Design,2
+52,Accessibility,UI/UX Design,3
+52,Design Systems,UI/UX Design,1
+52,Problem Solving,Soft Skills,3
+52,Teamwork,Soft Skills,3
+52,UI Design,UI/UX Design,1
+52,Figma,UI/UX Design,1
+53,Excel,Data Science & AI,2
+53,NumPy,Data Science & AI,2
+53,Statistics,Data Science & AI,1
+53,Data Warehousing,Databases,1
+53,Communication,Soft Skills,1
+53,Apache Spark,Data Science & AI,2
+53,Apache Kafka,Data Science & AI,1
+53,Problem Solving,Soft Skills,3
+53,Teamwork,Soft Skills,3
+53,Webpack,Web Development,1
+53,Python,Programming Languages,1
+53,Pandas,Data Science & AI,1
+53,Data Visualization,Data Science & AI,1
+54,Unity,Game Development,3
+54,C#,Programming Languages,2
+54,C++,Programming Languages,1
+54,Data Structures & Algorithms,Programming Languages,1
+54,Git,DevOps & Cloud,3
+54,Unreal Engine,Game Development,3
+54,Problem Solving,Soft Skills,2
+54,Teamwork,Soft Skills,2
+54,3D Modeling,Game Development,1
+54,JavaScript,Web Development,1
+54,React,Web Development,1
+54,Object-Oriented Programming,Programming Languages,1
+55,Test Automation,Software Engineering,3
+55,JavaScript,Web Development,3
+55,Python,Programming Languages,3
+55,CI/CD,DevOps & Cloud,3
+55,REST API Design,Web Development,1
+55,SQL,Databases,2
+55,Agile,Software Engineering,1
+55,Documentation,Software Engineering,1
+55,Git,DevOps & Cloud,3
+55,Communication,Soft Skills,2
+55,Teamwork,Soft Skills,3
+55,Dart,Programming Languages,1
+55,Microservices,Web Development,1
+55,React,Web Development,1
+55,Data Visualization,Data Science & AI,1
+56,Test Automation,Software Engineering,4
+56,Python,Programming Languages,2
+56,Git,DevOps & Cloud,4
+56,CI/CD,DevOps & Cloud,4
+56,SQL,Databases,1
+56,Agile,Software Engineering,4
+56,Communication,Soft Skills,3
+56,Documentation,Software Engineering,3
+56,Design Patterns,Software Engineering,2
+56,Unit Testing,Software Engineering,1
+56,Docker,DevOps & Cloud,1
+56,NLP,Data Science & AI,1
+56,PyTorch,Data Science & AI,1
+56,Machine Learning,Data Science & AI,1
+56,Linux,DevOps & Cloud,1
+56,Nginx,DevOps & Cloud,1
+57,Flutter,Mobile Development,2
+57,Dart,Programming Languages,1
+57,React Native,Mobile Development,1
+57,REST API Design,Web Development,2
+57,Git,DevOps & Cloud,2
+57,Unit Testing,Software Engineering,2
+57,iOS Development,Mobile Development,2
+57,Communication,Soft Skills,3
+57,TensorFlow,Data Science & AI,1
+57,Firebase,Databases,1
+57,UI Design,UI/UX Design,1
+58,Unit Testing,Software Engineering,2
+58,JavaScript,Web Development,1
+58,Git,DevOps & Cloud,1
+58,REST API Design,Web Development,2
+58,Documentation,Software Engineering,1
+58,Test Automation,Software Engineering,1
+58,Communication,Soft Skills,2
+58,CI/CD,DevOps & Cloud,1
+58,Agile,Software Engineering,1
+58,React Native,Mobile Development,1
+58,Firebase,Databases,1
+59,Unreal Engine,Game Development,1
+59,Object-Oriented Programming,Programming Languages,1
+59,Git,DevOps & Cloud,2
+59,3D Modeling,Game Development,2
+59,Unity,Game Development,1
+59,C#,Programming Languages,1
+59,Problem Solving,Soft Skills,1
+60,SQL,Databases,4
+60,Excel,Data Science & AI,3
+60,Pandas,Data Science & AI,4
+60,Data Visualization,Data Science & AI,4
+60,Statistics,Data Science & AI,3
+60,Data Warehousing,Databases,1
+60,Problem Solving,Soft Skills,3
+60,PyTorch,Data Science & AI,2
+60,NLP,Data Science & AI,2
+60,MLOps,Data Science & AI,2
+60,Teamwork,Soft Skills,3
+61,Networking,DevOps & Cloud,4
+61,Network Security,Cybersecurity,3
+61,Web Security,Cybersecurity,3
+61,Cryptography,Cybersecurity,1
+61,Incident Response,Cybersecurity,1
+61,Ethical Hacking,Cybersecurity,3
+61,Linux,DevOps & Cloud,1
+61,Documentation,Software Engineering,1
+62,Python,Programming Languages,3
+62,FastAPI,Web Development,2
+62,Redis,Databases,2
+62,Git,DevOps & Cloud,2
+62,AWS,DevOps & Cloud,1
+62,System Design,Software Engineering,2
+62,NumPy,Data Science & AI,1
+62,Data Engineering,Data Science & AI,1
+62,Communication,Soft Skills,3
+62,Dart,Programming Languages,1
+62,CSS,Web Development,1
+62,Pandas,Data Science & AI,1
+62,Data Visualization,Data Science & AI,1
+62,Statistics,Data Science & AI,1
+63,Excel,Data Science & AI,1
+63,Python,Programming Languages,1
+63,Data Visualization,Data Science & AI,3
+63,Statistics,Data Science & AI,1
+63,Problem Solving,Soft Skills,1
+63,NLP,Data Science & AI,1
+63,MLOps,Data Science & AI,1
+63,Communication,Soft Skills,3
+63,Pandas,Data Science & AI,1
+63,NumPy,Data Science & AI,1
+64,Kotlin,Programming Languages,1
+64,Android Development,Mobile Development,1
+64,Flutter,Mobile Development,1
+64,REST API Design,Web Development,2
+64,React Native,Mobile Development,2
+64,iOS Development,Mobile Development,3
+64,Communication,Soft Skills,3
+64,Unit Testing,Software Engineering,1
+64,JavaScript,Web Development,1
+64,Firebase,Databases,1
+65,Figma,UI/UX Design,3
+65,Wireframing,UI/UX Design,3
+65,Accessibility,UI/UX Design,1
+65,Communication,Soft Skills,3
+65,UX Research,UI/UX Design,2
+65,Teamwork,Soft Skills,3
+65,Data Warehousing,Databases,1
+65,UI Design,UI/UX Design,1
+65,Design Systems,UI/UX Design,1
+66,Kotlin,Programming Languages,3
+66,Android Development,Mobile Development,4
+66,Flutter,Mobile Development,2
+66,Dart,Programming Languages,2
+66,React Native,Mobile Development,4
+66,REST API Design,Web Development,3
+66,Firebase,Databases,4
+66,Git,DevOps & Cloud,4
+66,UI Design,UI/UX Design,2
+66,Unit Testing,Software Engineering,1
+66,iOS Development,Mobile Development,2
+66,Problem Solving,Soft Skills,3
+66,Communication,Soft Skills,1
+66,Teamwork,Soft Skills,2
+66,CI/CD,DevOps & Cloud,1
+66,JavaScript,Web Development,1
+67,Python,Programming Languages,2
+67,NLP,Data Science & AI,3
+67,FastAPI,Web Development,2
+67,REST API Design,Web Development,1
+67,AWS,DevOps & Cloud,1
+67,JavaScript,Web Development,1
+67,System Design,Software Engineering,2
+67,Pandas,Data Science & AI,1
+67,NumPy,Data Science & AI,3
+67,Git,DevOps & Cloud,2
+67,Communication,Soft Skills,2
+67,Teamwork,Soft Skills,3
+67,Apache Spark,Data Science & AI,1
+67,Statistics,Data Science & AI,1
+67,Machine Learning,Data Science & AI,1
+68,Kotlin,Programming Languages,2
+68,Android Development,Mobile Development,4
+68,Dart,Programming Languages,3
+68,React Native,Mobile Development,3
+68,REST API Design,Web Development,3
+68,Firebase,Databases,2
+68,Git,DevOps & Cloud,3
+68,UI Design,UI/UX Design,1
+68,Unit Testing,Software Engineering,3
+68,Flutter,Mobile Development,1
+68,iOS Development,Mobile Development,2
+68,Teamwork,Soft Skills,3
+68,Rust,Programming Languages,1
+68,JavaScript,Web Development,1
+69,Test Automation,Software Engineering,3
+69,JavaScript,Web Development,2
+69,Python,Programming Languages,1
+69,Git,DevOps & Cloud,2
+69,CI/CD,DevOps & Cloud,1
+69,SQL,Databases,2
+69,Communication,Soft Skills,3
+69,Design Patterns,Software Engineering,3
+69,Teamwork,Soft Skills,1
+69,Docker,DevOps & Cloud,1
+69,Linux,DevOps & Cloud,1
+69,Unit Testing,Software Engineering,1
+69,Agile,Software Engineering,1
+69,MLOps,Data Science & AI,1
+69,Monitoring,DevOps & Cloud,1
+70,JavaScript,Web Development,3
+70,Python,Programming Languages,1
+70,CI/CD,DevOps & Cloud,1
+70,Communication,Soft Skills,1
+70,System Design,Software Engineering,2
+70,Design Patterns,Software Engineering,2
+70,Git,DevOps & Cloud,1
+70,Problem Solving,Soft Skills,1
+70,Teamwork,Soft Skills,2
+70,Tailwind CSS,Web Development,1
+70,Test Automation,Software Engineering,1
+70,Agile,Software Engineering,1
+71,UX Research,UI/UX Design,2
+71,Accessibility,UI/UX Design,1
+71,HTML,Web Development,2
+71,Communication,Soft Skills,1
+71,Design Systems,UI/UX Design,1
+71,UI Design,UI/UX Design,1
+71,Git,DevOps & Cloud,2
+71,Problem Solving,Soft Skills,2
+71,Teamwork,Soft Skills,1
+71,R,Programming Languages,1
+71,Figma,UI/UX Design,1
+72,Networking,DevOps & Cloud,4
+72,Ethical Hacking,Cybersecurity,1
+72,SIEM,Cybersecurity,2
+72,Authentication,Web Development,3
+72,Communication,Soft Skills,3
+72,Cryptography,Cybersecurity,3
+72,Incident Response,Cybersecurity,1
+72,Git,DevOps & Cloud,2
+72,Problem Solving,Soft Skills,3
+72,JavaScript,Web Development,1
+72,Web Security,Cybersecurity,1
+73,JavaScript,Web Development,1
+73,TypeScript,Web Development,2
+73,React,Web Development,2
+73,Next.js,Web Development,2
+73,Node.js,Web Development,2
+73,Express.js,Web Development,2
+73,REST API Design,Web Development,3
+73,SQL,Databases,2
+73,Database Design,Databases,1
+73,Git,DevOps & Cloud,2
+73,Docker,DevOps & Cloud,1
+73,Responsive Design,Web Development,2
+73,Authentication,Web Development,1
+73,Problem Solving,Soft Skills,3
+73,CSS,Web Development,1
+73,iOS Development,Mobile Development,1
+73,Microservices,Web Development,1
+73,Redis,Databases,1
+73,MongoDB,Databases,1
+74,Test Automation,Software Engineering,4
+74,Unit Testing,Software Engineering,2
+74,JavaScript,Web Development,3
+74,Python,Programming Languages,4
+74,CI/CD,DevOps & Cloud,4
+74,REST API Design,Web Development,1
+74,SQL,Databases,1
+74,Agile,Software Engineering,2
+74,Communication,Soft Skills,2
+74,Documentation,Software Engineering,1
+74,Design Patterns,Software Engineering,3
+74,System Design,Software Engineering,2
+74,Git,DevOps & Cloud,3
+74,Problem Solving,Soft Skills,3
+74,Computer Vision,Data Science & AI,1
+74,Docker,DevOps & Cloud,1
+74,Linux,DevOps & Cloud,1
+75,Test Automation,Software Engineering,3
+75,Unit Testing,Software Engineering,1
+75,JavaScript,Web Development,1
+75,CI/CD,DevOps & Cloud,1
+75,REST API Design,Web Development,1
+75,SQL,Databases,2
+75,Documentation,Software Engineering,1
+75,System Design,Software Engineering,3
+75,Design Patterns,Software Engineering,2
+75,Git,DevOps & Cloud,1
+75,Agile,Software Engineering,1
+75,React,Web Development,1
+75,Data Visualization,Data Science & AI,1
+76,CSS,Web Development,4
+76,JavaScript,Web Development,3
+76,TypeScript,Web Development,3
+76,React,Web Development,4
+76,Next.js,Web Development,1
+76,Node.js,Web Development,4
+76,Express.js,Web Development,2
+76,REST API Design,Web Development,4
+76,Authentication,Web Development,3
+76,MongoDB,Databases,2
+76,SQL,Databases,1
+76,Git,DevOps & Cloud,4
+76,Docker,DevOps & Cloud,3
+76,Unit Testing,Software Engineering,1
+76,Communication,Soft Skills,3
+76,Microservices,Web Development,2
+76,Django,Web Development,1
+76,Bootstrap,Web Development,2
+76,Responsive Design,Web Development,3
+76,Problem Solving,Soft Skills,2
+76,Teamwork,Soft Skills,2
+76,HTML,Web Development,1
+76,GraphQL,Web Development,1
+76,CI/CD,DevOps & Cloud,1
+76,Linux,DevOps & Cloud,1
+77,CI/CD,DevOps & Cloud,1
+77,Documentation,Software Engineering,1
+77,System Design,Software Engineering,1
+77,Git,DevOps & Cloud,2
+77,Docker,DevOps & Cloud,1
+77,Linux,DevOps & Cloud,1
+77,Nginx,DevOps & Cloud,1
+78,Linux,DevOps & Cloud,4
+78,CI/CD,DevOps & Cloud,2
+78,Terraform,DevOps & Cloud,2
+78,Ansible,DevOps & Cloud,2
+78,Networking,DevOps & Cloud,2
+78,Docker,DevOps & Cloud,3
+78,Azure,DevOps & Cloud,1
+78,Git,DevOps & Cloud,2
+78,Communication,Soft Skills,3
+78,SIEM,Cybersecurity,1
+78,Incident Response,Cybersecurity,1
+78,Nginx,DevOps & Cloud,1
+79,Ethical Hacking,Cybersecurity,1
+79,Web Security,Cybersecurity,3
+79,SIEM,Cybersecurity,2
+79,Incident Response,Cybersecurity,1
+79,Python,Programming Languages,1
+79,Authentication,Web Development,3
+79,Communication,Soft Skills,2
+79,Cryptography,Cybersecurity,1
+79,Git,DevOps & Cloud,2
+79,Problem Solving,Soft Skills,2
+79,Teamwork,Soft Skills,3
+79,JavaScript,Web Development,1
+79,Linux,DevOps & Cloud,1
+79,Networking,DevOps & Cloud,1
+80,HTML,Web Development,2
+80,JavaScript,Web Development,2
+80,Next.js,Web Development,1
+80,Node.js,Web Development,3
+80,Authentication,Web Development,3
+80,Git,DevOps & Cloud,3
+80,Docker,DevOps & Cloud,1
+80,Unit Testing,Software Engineering,1
+80,Responsive Design,Web Development,3
+80,Webpack,Web Development,2
+80,Flask,Web Development,3
+80,Problem Solving,Soft Skills,1
+80,Teamwork,Soft Skills,2
+80,Networking,DevOps & Cloud,1
+80,Monitoring,DevOps & Cloud,1
+80,Linux,DevOps & Cloud,1
+80,Cryptography,Cybersecurity,1
+80,Web Security,Cybersecurity,1
+81,Linux,DevOps & Cloud,3
+81,Git,DevOps & Cloud,4
+81,Docker,DevOps & Cloud,3
+81,AWS,DevOps & Cloud,2
+81,Ansible,DevOps & Cloud,1
+81,Monitoring,DevOps & Cloud,3
+81,Networking,DevOps & Cloud,3
+81,Python,Programming Languages,1
+81,Nginx,DevOps & Cloud,1
+81,Azure,DevOps & Cloud,2
+81,Communication,Soft Skills,3
+82,Machine Learning,Data Science & AI,3
+82,FastAPI,Web Development,2
+82,Docker,DevOps & Cloud,1
+82,Redis,Databases,1
+82,JavaScript,Web Development,1
+82,System Design,Software Engineering,2
+82,Statistics,Data Science & AI,2
+82,Problem Solving,Soft Skills,3
+82,Communication,Soft Skills,1
+82,Object-Oriented Programming,Programming Languages,1
+82,Unity,Game Development,1
+82,C#,Programming Languages,1
+83,Test Automation,Software Engineering,3
+83,Unit Testing,Software Engineering,2
+83,JavaScript,Web Development,4
+83,Python,Programming Languages,3
+83,Git,DevOps & Cloud,2
+83,CI/CD,DevOps & Cloud,3
+83,REST API Design,Web Development,3
+83,SQL,Databases,1
+83,Agile,Software Engineering,4
+83,Communication,Soft Skills,2
+83,Documentation,Software Engineering,2
+83,Design Patterns,Software Engineering,3
+83,System Design,Software Engineering,1
+83,Tailwind CSS,Web Development,1
+83,Docker,DevOps & Cloud,1
+83,Linux,DevOps & Cloud,1
+83,Node.js,Web Development,1
+83,Express.js,Web Development,1
+83,PostgreSQL,Databases,1
+83,React Native,Mobile Development,1
+83,Firebase,Databases,1
+84,UI Design,UI/UX Design,3
+84,Accessibility,UI/UX Design,2
+84,HTML,Web Development,1
+84,Communication,Soft Skills,3
+84,UX Research,UI/UX Design,2
+84,Git,DevOps & Cloud,2
+84,R,Programming Languages,1
+84,Figma,UI/UX Design,1
+84,Wireframing,UI/UX Design,1
+85,UI Design,UI/UX Design,4
+85,UX Research,UI/UX Design,3
+85,Wireframing,UI/UX Design,2
+85,Accessibility,UI/UX Design,3
+85,Design Systems,UI/UX Design,3
+85,Figma,UI/UX Design,1
+85,Unity,Game Development,1
+85,Nginx,DevOps & Cloud,1
+86,C#,Programming Languages,2
+86,C++,Programming Languages,1
+86,Data Structures & Algorithms,Programming Languages,1
+86,Object-Oriented Programming,Programming Languages,1
+86,Teamwork,Soft Skills,1
+86,Unreal Engine,Game Development,2
+86,Problem Solving,Soft Skills,3
+86,PyTorch,Data Science & AI,1
+86,Unity,Game Development,1
+87,Figma,UI/UX Design,3
+87,UI Design,UI/UX Design,2
+87,Design Systems,UI/UX Design,1
+87,HTML,Web Development,1
+87,CSS,Web Development,1
+87,Accessibility,UI/UX Design,1
+87,Teamwork,Soft Skills,2
+87,SIEM,Cybersecurity,1
+87,UX Research,UI/UX Design,1
+87,Wireframing,UI/UX Design,1
+88,AWS,DevOps & Cloud,4
+88,Google Cloud,DevOps & Cloud,2
+88,Networking,DevOps & Cloud,2
+88,Terraform,DevOps & Cloud,3
+88,Docker,DevOps & Cloud,3
+88,Python,Programming Languages,1
+88,Network Security,Cybersecurity,1
+88,Monitoring,DevOps & Cloud,3
+88,CI/CD,DevOps & Cloud,1
+88,Azure,DevOps & Cloud,2
+88,Nginx,DevOps & Cloud,3
+88,Communication,Soft Skills,2
+88,Teamwork,Soft Skills,1
+88,React Native,Mobile Development,1
+88,MLOps,Data Science & AI,1
+88,Linux,DevOps & Cloud,1
+88,Git,DevOps & Cloud,1
+89,Deep Learning,Data Science & AI,4
+89,TensorFlow,Data Science & AI,4
+89,PyTorch,Data Science & AI,3
+89,MLOps,Data Science & AI,2
+89,Data Engineering,Data Science & AI,2
+89,SQL,Databases,2
+89,Git,DevOps & Cloud,2
+89,NLP,Data Science & AI,2
+89,Computer Vision,Data Science & AI,3
+89,Apache Spark,Data Science & AI,1
+89,Apache Kafka,Data Science & AI,1
+89,Problem Solving,Soft Skills,3
+89,Teamwork,Soft Skills,3
+89,UX Research,UI/UX Design,1
+89,Python,Programming Languages,1
+89,Machine Learning,Data Science & AI,1
+89,Data Warehousing,Databases,1
+90,Networking,DevOps & Cloud,4
+90,Linux,DevOps & Cloud,2
+90,Network Security,Cybersecurity,4
+90,Cryptography,Cybersecurity,4
+90,SIEM,Cybersecurity,4
+90,Incident Response,Cybersecurity,3
+90,Authentication,Web Development,4
+90,Communication,Soft Skills,3
+90,Ethical Hacking,Cybersecurity,1
+90,Problem Solving,Soft Skills,3
+90,TensorFlow,Data Science & AI,1
+90,Node.js,Web Development,1
+90,Terraform,DevOps & Cloud,1
+90,AWS,DevOps & Cloud,1
+90,JavaScript,Web Development,1
+90,Web Security,Cybersecurity,1
+91,Python,Programming Languages,3
+91,Machine Learning,Data Science & AI,3
+91,TensorFlow,Data Science & AI,1
+91,PyTorch,Data Science & AI,2
+91,MLOps,Data Science & AI,2
+91,Docker,DevOps & Cloud,1
+91,Data Engineering,Data Science & AI,1
+91,Git,DevOps & Cloud,1
+91,AWS,DevOps & Cloud,1
+91,Unit Testing,Software Engineering,2
+91,Excel,Data Science & AI,2
+91,Deep Learning,Data Science & AI,3
+91,Problem Solving,Soft Skills,1
+91,Communication,Soft Skills,1
+91,Teamwork,Soft Skills,3
+91,Pandas,Data Science & AI,1
+91,Flask,Web Development,1
+91,NumPy,Data Science & AI,1
+91,Data Visualization,Data Science & AI,1
+91,Statistics,Data Science & AI,1
+92,AWS,DevOps & Cloud,3
+92,Azure,DevOps & Cloud,1
+92,Linux,DevOps & Cloud,3
+92,Networking,DevOps & Cloud,1
+92,Terraform,DevOps & Cloud,3
+92,Docker,DevOps & Cloud,1
+92,Kubernetes,DevOps & Cloud,1
+92,CI/CD,DevOps & Cloud,2
+92,Monitoring,DevOps & Cloud,1
+92,Network Security,Cybersecurity,2
+92,Nginx,DevOps & Cloud,1
+92,Ansible,DevOps & Cloud,3
+92,Google Cloud,DevOps & Cloud,3
+92,Communication,Soft Skills,3
+92,SIEM,Cybersecurity,1
+92,Incident Response,Cybersecurity,1
+93,Design Systems,UI/UX Design,3
+93,Accessibility,UI/UX Design,2
+93,HTML,Web Development,1
+93,CSS,Web Development,1
+93,UX Research,UI/UX Design,3
+93,Git,DevOps & Cloud,3
+93,Problem Solving,Soft Skills,3
+93,Communication,Soft Skills,3
+93,Bootstrap,Web Development,1
+93,Design Patterns,Software Engineering,1
+93,Figma,UI/UX Design,1
+93,UI Design,UI/UX Design,1
+93,JavaScript,Web Development,1
+93,Responsive Design,Web Development,1
+94,Networking,DevOps & Cloud,3
+94,Linux,DevOps & Cloud,4
+94,Network Security,Cybersecurity,4
+94,Ethical Hacking,Cybersecurity,4
+94,Web Security,Cybersecurity,4
+94,SIEM,Cybersecurity,3
+94,Python,Programming Languages,3
+94,Authentication,Web Development,4
+94,Communication,Soft Skills,2
+94,Incident Response,Cybersecurity,3
+94,Cryptography,Cybersecurity,1
+94,Git,DevOps & Cloud,2
+94,Problem Solving,Soft Skills,3
+94,Teamwork,Soft Skills,2
+94,JavaScript,Web Development,1
+94,Docker,DevOps & Cloud,1
+94,Nginx,DevOps & Cloud,1
+95,UI Design,UI/UX Design,4
+95,UX Research,UI/UX Design,3
+95,HTML,Web Development,2
+95,CSS,Web Development,2
+95,Communication,Soft Skills,2
+95,Figma,UI/UX Design,1
+95,Wireframing,UI/UX Design,1
+95,Problem Solving,Soft Skills,1
+95,R,Programming Languages,1
+95,Accessibility,UI/UX Design,1
+95,JavaScript,Web Development,1
+95,Responsive Design,Web Development,1
+96,Python,Programming Languages,3
+96,Pandas,Data Science & AI,2
+96,Data Visualization,Data Science & AI,1
+96,SQL,Databases,3
+96,Deep Learning,Data Science & AI,1
+96,Git,DevOps & Cloud,2
+96,Communication,Soft Skills,1
+96,MLOps,Data Science & AI,2
+96,PyTorch,Data Science & AI,3
+96,NumPy,Data Science & AI,1
+96,Problem Solving,Soft Skills,2
+96,Teamwork,Soft Skills,1
+96,Angular,Web Development,1
+96,NLP,Data Science & AI,1
+96,Machine Learning,Data Science & AI,1
+96,Statistics,Data Science & AI,1
+97,Node.js,Web Development,3
+97,Python,Programming Languages,4
+97,REST API Design,Web Development,4
+97,SQL,Databases,4
+97,PostgreSQL,Databases,3
+97,MongoDB,Databases,2
+97,Redis,Databases,1
+97,Database Design,Databases,4
+97,Microservices,Web Development,3
+97,Docker,DevOps & Cloud,2
+97,Unit Testing,Software Engineering,3
+97,System Design,Software Engineering,4
+97,GraphQL,Web Development,1
+97,Linux,DevOps & Cloud,2
+97,JavaScript,Web Development,3
+97,Tailwind CSS,Web Development,1
+97,Git,DevOps & Cloud,2
+97,CI/CD,DevOps & Cloud,1
+97,Pandas,Data Science & AI,1
+97,Machine Learning,Data Science & AI,1
+98,Linux,DevOps & Cloud,1
+98,Networking,DevOps & Cloud,2
+98,Docker,DevOps & Cloud,3
+98,Kubernetes,DevOps & Cloud,2
+98,Python,Programming Languages,1
+98,Terraform,DevOps & Cloud,1
+98,Azure,DevOps & Cloud,1
+98,Teamwork,Soft Skills,3
+98,React Native,Mobile Development,1
+98,Monitoring,DevOps & Cloud,1
+98,Nginx,DevOps & Cloud,1
+98,Git,DevOps & Cloud,1
+99,Figma,UI/UX Design,4
+99,UI Design,UI/UX Design,3
+99,UX Research,UI/UX Design,1
+99,Accessibility,UI/UX Design,3
+99,Design Systems,UI/UX Design,3
+99,NLP,Data Science & AI,1
+99,Wireframing,UI/UX Design,1
+100,JavaScript,Web Development,3
+100,React,Web Development,3
+100,Webpack,Web Development,1
+100,Figma,UI/UX Design,2
+100,CSS,Web Development,3
+100,Microservices,Web Development,3
+100,Problem Solving,Soft Skills,1
+100,NLP,Data Science & AI,1
+100,Data Visualization,Data Science & AI,1
+100,Data Structures & Algorithms,Programming Languages,1
+101,Kubernetes,DevOps & Cloud,1
+101,AWS,DevOps & Cloud,2
+101,Monitoring,DevOps & Cloud,1
+101,Networking,DevOps & Cloud,3
+101,Nginx,DevOps & Cloud,1
+101,Ansible,DevOps & Cloud,1
+101,Google Cloud,DevOps & Cloud,2
+101,Git,DevOps & Cloud,3
+101,Terraform,DevOps & Cloud,1
+101,Problem Solving,Soft Skills,3
+101,Linux,DevOps & Cloud,1
+101,Docker,DevOps & Cloud,1
+102,AWS,DevOps & Cloud,3
+102,Google Cloud,DevOps & Cloud,1
+102,Networking,DevOps & Cloud,1
+102,Terraform,DevOps & Cloud,3
+102,Docker,DevOps & Cloud,1
+102,Monitoring,DevOps & Cloud,2
+102,Network Security,Cybersecurity,1
+102,Azure,DevOps & Cloud,2
+102,Kubernetes,DevOps & Cloud,3
+102,Ansible,DevOps & Cloud,2
+102,JavaScript,Web Development,1
+102,Ethical Hacking,Cybersecurity,1
+102,Linux,DevOps & Cloud,1
+103,Figma,UI/UX Design,3
+103,UI Design,UI/UX Design,4
+103,UX Research,UI/UX Design,1
+103,Design Systems,UI/UX Design,1
+103,Accessibility,UI/UX Design,3
+103,HTML,Web Development,1
+103,CSS,Web Development,1
+103,Communication,Soft Skills,2
+103,Wireframing,UI/UX Design,3
+103,Git,DevOps & Cloud,3
+103,Teamwork,Soft Skills,1
+103,JavaScript,Web Development,1
+103,Responsive Design,Web Development,1
+104,Android Development,Mobile Development,2
+104,Flutter,Mobile Development,3
+104,Dart,Programming Languages,3
+104,React Native,Mobile Development,1
+104,Firebase,Databases,3
+104,Git,DevOps & Cloud,3
+104,UI Design,UI/UX Design,2
+104,Unit Testing,Software Engineering,2
+104,iOS Development,Mobile Development,3
+104,Problem Solving,Soft Skills,2
+104,Communication,Soft Skills,3
+104,Go,Programming Languages,1
+104,Kotlin,Programming Languages,1
+105,CSS,Web Development,2
+105,JavaScript,Web Development,3
+105,React,Web Development,3
+105,Redux,Web Development,1
+105,Accessibility,UI/UX Design,1
+105,Unit Testing,Software Engineering,1
+105,TypeScript,Web Development,3
+105,Authentication,Web Development,1
+105,Git,DevOps & Cloud,1
+105,Communication,Soft Skills,2
+105,Design Systems,UI/UX Design,1
+105,Cryptography,Cybersecurity,1
+105,Web Security,Cybersecurity,1
+106,Linux,DevOps & Cloud,3
+106,Python,Programming Languages,2
+106,Git,DevOps & Cloud,1
+106,Google Cloud,DevOps & Cloud,1
+106,Nginx,DevOps & Cloud,3
+106,Networking,DevOps & Cloud,3
+106,Problem Solving,Soft Skills,2
+106,Communication,Soft Skills,3
+106,Teamwork,Soft Skills,1
+106,MLOps,Data Science & AI,1
+106,Terraform,DevOps & Cloud,1
+106,AWS,DevOps & Cloud,1
+106,Docker,DevOps & Cloud,1
+107,Git,DevOps & Cloud,2
+107,Docker,DevOps & Cloud,4
+107,Kubernetes,DevOps & Cloud,3
+107,AWS,DevOps & Cloud,2
+107,Terraform,DevOps & Cloud,1
+107,Ansible,DevOps & Cloud,1
+107,Networking,DevOps & Cloud,3
+107,Python,Programming Languages,2
+107,Nginx,DevOps & Cloud,1
+107,Monitoring,DevOps & Cloud,3
+107,CI/CD,DevOps & Cloud,3
+107,Linux,DevOps & Cloud,2
+107,Problem Solving,Soft Skills,3
+107,Redux,Web Development,1
+107,SIEM,Cybersecurity,1
+107,Incident Response,Cybersecurity,1
+108,CSS,Web Development,2
+108,JavaScript,Web Development,1
+108,TypeScript,Web Development,1
+108,Next.js,Web Development,2
+108,Node.js,Web Development,3
+108,Express.js,Web Development,1
+108,REST API Design,Web Development,2
+108,MongoDB,Databases,1
+108,SQL,Databases,1
+108,Unit Testing,Software Engineering,2
+108,Responsive Design,Web Development,2
+108,Communication,Soft Skills,2
+108,GraphQL,Web Development,3
+108,FastAPI,Web Development,1
+108,React Native,Mobile Development,1
+108,Firebase,Databases,1
+108,WebSockets,Web Development,1
+108,React,Web Development,1
+108,Redis,Databases,1
+109,AWS,DevOps & Cloud,4
+109,Google Cloud,DevOps & Cloud,1
+109,Linux,DevOps & Cloud,2
+109,Docker,DevOps & Cloud,3
+109,Kubernetes,DevOps & Cloud,1
+109,CI/CD,DevOps & Cloud,3
+109,Python,Programming Languages,1
+109,Monitoring,DevOps & Cloud,2
+109,Network Security,Cybersecurity,2
+109,Terraform,DevOps & Cloud,2
+109,Azure,DevOps & Cloud,2
+109,Git,DevOps & Cloud,2
+109,Problem Solving,Soft Skills,3
+109,Communication,Soft Skills,2
+109,C++,Programming Languages,1
+109,Dart,Programming Languages,1
+109,Networking,DevOps & Cloud,1
+110,SQL,Databases,2
+110,Excel,Data Science & AI,1
+110,Python,Programming Languages,2
+110,Pandas,Data Science & AI,1
+110,NumPy,Data Science & AI,2
+110,Data Warehousing,Databases,2
+110,Problem Solving,Soft Skills,2
+110,NLP,Data Science & AI,2
+110,Statistics,Data Science & AI,2
+110,Machine Learning,Data Science & AI,1
+110,Communication,Soft Skills,3
+110,Teamwork,Soft Skills,1
+110,Vue.js,Web Development,1
+110,CI/CD,DevOps & Cloud,1
+110,Data Engineering,Data Science & AI,1
+110,Apache Spark,Data Science & AI,1
+111,Figma,UI/UX Design,3
+111,UI Design,UI/UX Design,3
+111,UX Research,UI/UX Design,3
+111,Wireframing,UI/UX Design,4
+111,Design Systems,UI/UX Design,4
+111,Accessibility,UI/UX Design,4
+111,HTML,Web Development,1
+111,CSS,Web Development,3
+111,Communication,Soft Skills,3
+111,Problem Solving,Soft Skills,3
+111,Web Security,Cybersecurity,1
+111,JavaScript,Web Development,1
+111,Responsive Design,Web Development,1
+112,AWS,DevOps & Cloud,4
+112,Azure,DevOps & Cloud,3
+112,Google Cloud,DevOps & Cloud,1
+112,Terraform,DevOps & Cloud,2
+112,Docker,DevOps & Cloud,2
+112,CI/CD,DevOps & Cloud,4
+112,Python,Programming Languages,3
+112,Monitoring,DevOps & Cloud,1
+112,Network Security,Cybersecurity,2
+112,Ansible,DevOps & Cloud,1
+112,Problem Solving,Soft Skills,1
+112,MLOps,Data Science & AI,1
+112,Linux,DevOps & Cloud,1
+112,Networking,DevOps & Cloud,1
+113,Test Automation,Software Engineering,4
+113,Unit Testing,Software Engineering,2
+113,JavaScript,Web Development,3
+113,Python,Programming Languages,3
+113,Git,DevOps & Cloud,2
+113,CI/CD,DevOps & Cloud,4
+113,REST API Design,Web Development,1
+113,SQL,Databases,3
+113,Agile,Software Engineering,4
+113,Communication,Soft Skills,2
+113,Documentation,Software Engineering,1
+113,System Design,Software Engineering,3
+113,Design Patterns,Software Engineering,2
+113,Problem Solving,Soft Skills,2
+113,Teamwork,Soft Skills,2
+113,Project Management,Soft Skills,1
+113,Data Structures & Algorithms,Programming Languages,1
+113,React,Web Development,1
+114,Excel,Data Science & AI,3
+114,Python,Programming Languages,3
+114,Pandas,Data Science & AI,2
+114,NumPy,Data Science & AI,3
+114,Data Visualization,Data Science & AI,4
+114,Statistics,Data Science & AI,4
+114,Data Warehousing,Databases,3
+114,Communication,Soft Skills,2
+114,PyTorch,Data Science & AI,1
+114,Problem Solving,Soft Skills,1
+114,Ethical Hacking,Cybersecurity,1
+115,Test Automation,Software Engineering,4
+115,JavaScript,Web Development,2
+115,Git,DevOps & Cloud,2
+115,REST API Design,Web Development,1
+115,Documentation,Software Engineering,1
+115,Unit Testing,Software Engineering,3
+115,Design Patterns,Software Engineering,2
+115,Teamwork,Soft Skills,3
+115,CI/CD,DevOps & Cloud,1
+115,Agile,Software Engineering,1
+115,React,Web Development,1
+115,Data Visualization,Data Science & AI,1
+115,React Native,Mobile Development,1
+115,Firebase,Databases,1
+116,LLMs,Data Science & AI,2
+116,NLP,Data Science & AI,3
+116,Machine Learning,Data Science & AI,2
+116,Docker,DevOps & Cloud,2
+116,AWS,DevOps & Cloud,1
+116,Apache Spark,Data Science & AI,1
+116,Statistics,Data Science & AI,2
+116,Problem Solving,Soft Skills,2
+116,Teamwork,Soft Skills,3
+116,Python,Programming Languages,1
+116,PyTorch,Data Science & AI,1
+117,Python,Programming Languages,2
+117,LLMs,Data Science & AI,2
+117,Machine Learning,Data Science & AI,3
+117,Docker,DevOps & Cloud,2
+117,Git,DevOps & Cloud,1
+117,AWS,DevOps & Cloud,1
+117,JavaScript,Web Development,2
+117,System Design,Software Engineering,1
+117,PyTorch,Data Science & AI,1
+117,Pandas,Data Science & AI,3
+117,Problem Solving,Soft Skills,3
+117,Communication,Soft Skills,3
+117,Teamwork,Soft Skills,2
+117,Cryptography,Cybersecurity,1
+117,Data Structures & Algorithms,Programming Languages,1
+117,React,Web Development,1
+118,Figma,UI/UX Design,4
+118,UI Design,UI/UX Design,3
+118,UX Research,UI/UX Design,3
+118,Design Systems,UI/UX Design,4
+118,Accessibility,UI/UX Design,3
+118,HTML,Web Development,3
+118,Communication,Soft Skills,2
+118,Wireframing,UI/UX Design,3
+119,Python,Programming Languages,2
+119,Statistics,Data Science & AI,3
+119,Machine Learning,Data Science & AI,3
+119,SQL,Databases,1
+119,Deep Learning,Data Science & AI,2
+119,NLP,Data Science & AI,2
+119,Git,DevOps & Cloud,1
+119,NumPy,Data Science & AI,3
+119,TensorFlow,Data Science & AI,1
+119,LLMs,Data Science & AI,1
+119,Problem Solving,Soft Skills,1
+119,Teamwork,Soft Skills,1
+119,PyTorch,Data Science & AI,1
+120,UI Design,UI/UX Design,4
+120,UX Research,UI/UX Design,3
+120,Wireframing,UI/UX Design,2
+120,HTML,Web Development,1
+120,CSS,Web Development,2
+120,Communication,Soft Skills,3
+120,Accessibility,UI/UX Design,2
+120,Teamwork,Soft Skills,3
+120,Problem Solving,Soft Skills,1
+120,JavaScript,Web Development,1
+120,Responsive Design,Web Development,1
+120,Figma,UI/UX Design,1
+121,HTML,Web Development,3
+121,JavaScript,Web Development,1
+121,TypeScript,Web Development,1
+121,React,Web Development,1
+121,Next.js,Web Development,1
+121,Node.js,Web Development,1
+121,Database Design,Databases,2
+121,Git,DevOps & Cloud,1
+121,Unit Testing,Software Engineering,1
+121,Communication,Soft Skills,1
+121,Express.js,Web Development,3
+121,Problem Solving,Soft Skills,2
+121,Teamwork,Soft Skills,1
+121,Statistics,Data Science & AI,1
+121,CSS,Web Development,1
+121,Responsive Design,Web Development,1
+121,Design Systems,UI/UX Design,1
+121,Accessibility,UI/UX Design,1
+122,JavaScript,Web Development,2
+122,Next.js,Web Development,2
+122,Node.js,Web Development,3
+122,Express.js,Web Development,3
+122,SQL,Databases,2
+122,Unit Testing,Software Engineering,1
+122,Responsive Design,Web Development,2
+122,Communication,Soft Skills,2
+122,Vue.js,Web Development,2
+122,FastAPI,Web Development,3
+122,GraphQL,Web Development,1
+122,Problem Solving,Soft Skills,3
+122,Teamwork,Soft Skills,3
+122,HTML,Web Development,1
+122,CSS,Web Development,1
+122,PostgreSQL,Databases,1
+122,Documentation,Software Engineering,1
+123,Python,Programming Languages,3
+123,SQL,Databases,2
+123,Agile,Software Engineering,1
+123,Communication,Soft Skills,1
+123,Test Automation,Software Engineering,1
+123,Documentation,Software Engineering,2
+123,Problem Solving,Soft Skills,2
+123,Kubernetes,DevOps & Cloud,1
+123,Docker,DevOps & Cloud,1
+123,Linux,DevOps & Cloud,1
+123,Monitoring,DevOps & Cloud,1
+124,Pandas,Data Science & AI,4
+124,Machine Learning,Data Science & AI,4
+124,NLP,Data Science & AI,1
+124,Communication,Soft Skills,3
+124,MLOps,Data Science & AI,3
+124,Apache Kafka,Data Science & AI,2
+124,Data Engineering,Data Science & AI,3
+124,Problem Solving,Soft Skills,1
+124,Python,Programming Languages,1
+124,PyTorch,Data Science & AI,1
+124,NumPy,Data Science & AI,1
+125,Test Automation,Software Engineering,2
+125,Python,Programming Languages,1
+125,CI/CD,DevOps & Cloud,1
+125,REST API Design,Web Development,1
+125,SQL,Databases,1
+125,Communication,Soft Skills,3
+125,Agile,Software Engineering,3
+125,System Design,Software Engineering,1
+125,Documentation,Software Engineering,3
+125,Problem Solving,Soft Skills,2
+125,Excel,Data Science & AI,1
+125,JavaScript,Web Development,1
+125,Git,DevOps & Cloud,1
+126,Unit Testing,Software Engineering,1
+126,JavaScript,Web Development,2
+126,SQL,Databases,2
+126,Test Automation,Software Engineering,2
+126,Problem Solving,Soft Skills,3
+126,Communication,Soft Skills,2
+126,C#,Programming Languages,1
+126,Data Structures & Algorithms,Programming Languages,1
+126,React,Web Development,1
+126,Unity,Game Development,1
+126,Object-Oriented Programming,Programming Languages,1
+127,Linux,DevOps & Cloud,3
+127,Docker,DevOps & Cloud,1
+127,CI/CD,DevOps & Cloud,1
+127,Python,Programming Languages,2
+127,Network Security,Cybersecurity,1
+127,Kubernetes,DevOps & Cloud,2
+127,Terraform,DevOps & Cloud,1
+127,Git,DevOps & Cloud,1
+127,Problem Solving,Soft Skills,2
+127,Communication,Soft Skills,2
+127,Agile,Software Engineering,1
+127,HTML,Web Development,1
+127,Nginx,DevOps & Cloud,1
+128,UX Research,UI/UX Design,3
+128,Accessibility,UI/UX Design,4
+128,HTML,Web Development,3
+128,CSS,Web Development,1
+128,Communication,Soft Skills,4
+128,Design Systems,UI/UX Design,1
+128,Wireframing,UI/UX Design,3
+128,Git,DevOps & Cloud,1
+128,Problem Solving,Soft Skills,3
+128,Teamwork,Soft Skills,1
+128,Figma,UI/UX Design,1
+128,UI Design,UI/UX Design,1
+128,JavaScript,Web Development,1
+128,Responsive Design,Web Development,1
+129,CSS,Web Development,3
+129,JavaScript,Web Development,2
+129,Redux,Web Development,1
+129,Webpack,Web Development,1
+129,Git,DevOps & Cloud,2
+129,Unit Testing,Software Engineering,1
+129,Tailwind CSS,Web Development,3
+129,HTML,Web Development,2
+129,Responsive Design,Web Development,1
+130,JavaScript,Web Development,1
+130,Python,Programming Languages,1
+130,Git,DevOps & Cloud,1
+130,Agile,Software Engineering,1
+130,Communication,Soft Skills,1
+130,Documentation,Software Engineering,2
+130,Test Automation,Software Engineering,2
+130,Design Patterns,Software Engineering,1
+130,Teamwork,Soft Skills,3
+130,CI/CD,DevOps & Cloud,1
+131,HTML,Web Development,3
+131,React,Web Development,3
+131,Next.js,Web Development,1
+131,Node.js,Web Development,2
+131,Express.js,Web Development,1
+131,REST API Design,Web Development,3
+131,Authentication,Web Development,3
+131,MongoDB,Databases,1
+131,Git,DevOps & Cloud,3
+131,Docker,DevOps & Cloud,1
+131,Unit Testing,Software Engineering,1
+131,Communication,Soft Skills,1
+131,GraphQL,Web Development,1
+131,Problem Solving,Soft Skills,1
+131,Teamwork,Soft Skills,2
+131,NLP,Data Science & AI,1
+131,NumPy,Data Science & AI,1
+131,TypeScript,Web Development,1
+131,PostgreSQL,Databases,1
+132,Python,Programming Languages,3
+132,Pandas,Data Science & AI,2
+132,Data Visualization,Data Science & AI,1
+132,SQL,Databases,3
+132,Deep Learning,Data Science & AI,1
+132,NLP,Data Science & AI,2
+132,MLOps,Data Science & AI,1
+132,NumPy,Data Science & AI,2
+132,Git,DevOps & Cloud,1
+132,Authentication,Web Development,1
+132,Machine Learning,Data Science & AI,1
+132,PyTorch,Data Science & AI,1
+132,Statistics,Data Science & AI,1
+132,Communication,Soft Skills,1
+133,Excel,Data Science & AI,1
+133,NumPy,Data Science & AI,1
+133,Data Warehousing,Databases,1
+133,Problem Solving,Soft Skills,3
+133,Data Visualization,Data Science & AI,2
+133,Machine Learning,Data Science & AI,1
+133,Teamwork,Soft Skills,3
+133,Spring Boot,Web Development,1
+133,Python,Programming Languages,1
+133,Pandas,Data Science & AI,1
+134,Figma,UI/UX Design,2
+134,Wireframing,UI/UX Design,4
+134,Design Systems,UI/UX Design,1
+134,Accessibility,UI/UX Design,1
+134,Communication,Soft Skills,1
+134,UI Design,UI/UX Design,3
+134,Git,DevOps & Cloud,1
+134,Problem Solving,Soft Skills,3
+134,Teamwork,Soft Skills,2
+135,Python,Programming Languages,3
+135,FastAPI,Web Development,2
+135,Docker,DevOps & Cloud,2
+135,PostgreSQL,Databases,1
+135,Redis,Databases,1
+135,AWS,DevOps & Cloud,1
+135,JavaScript,Web Development,2
+135,NLP,Data Science & AI,2
+135,Problem Solving,Soft Skills,3
+135,Azure,DevOps & Cloud,1
+135,PyTorch,Data Science & AI,1
+135,Machine Learning,Data Science & AI,1
+135,LLMs,Data Science & AI,1
+136,Node.js,Web Development,4
+136,Express.js,Web Development,2
+136,Python,Programming Languages,3
+136,Authentication,Web Development,3
+136,SQL,Databases,4
+136,MongoDB,Databases,2
+136,Redis,Databases,1
+136,Database Design,Databases,3
+136,Docker,DevOps & Cloud,4
+136,Git,DevOps & Cloud,4
+136,Unit Testing,Software Engineering,4
+136,GraphQL,Web Development,3
+136,Linux,DevOps & Cloud,2
+136,JavaScript,Web Development,1
+136,Teamwork,Soft Skills,1
+136,LLMs,Data Science & AI,1
+136,FastAPI,Web Development,1
+137,HTML,Web Development,3
+137,CSS,Web Development,1
+137,Next.js,Web Development,1
+137,Express.js,Web Development,2
+137,Authentication,Web Development,2
+137,SQL,Databases,2
+137,Docker,DevOps & Cloud,1
+137,Responsive Design,Web Development,2
+137,Microservices,Web Development,1
+137,GraphQL,Web Development,1
+137,Spring Boot,Web Development,1
+137,Problem Solving,Soft Skills,1
+137,Communication,Soft Skills,2
+137,REST API Design,Web Development,1
+137,Node.js,Web Development,1
+137,Redis,Databases,1
+137,TypeScript,Web Development,1
+137,PostgreSQL,Databases,1
+138,AWS,DevOps & Cloud,2
+138,Linux,DevOps & Cloud,2
+138,Networking,DevOps & Cloud,3
+138,Docker,DevOps & Cloud,1
+138,Kubernetes,DevOps & Cloud,1
+138,Python,Programming Languages,1
+138,Monitoring,DevOps & Cloud,1
+138,Network Security,Cybersecurity,1
+138,Git,DevOps & Cloud,1
+138,Google Cloud,DevOps & Cloud,1
+138,JavaScript,Web Development,1
+138,CI/CD,DevOps & Cloud,1
+138,Unit Testing,Software Engineering,1
+138,MLOps,Data Science & AI,1
+139,Linux,DevOps & Cloud,3
+139,Docker,DevOps & Cloud,2
+139,Kubernetes,DevOps & Cloud,2
+139,AWS,DevOps & Cloud,1
+139,Terraform,DevOps & Cloud,1
+139,Ansible,DevOps & Cloud,1
+139,Monitoring,DevOps & Cloud,3
+139,Networking,DevOps & Cloud,1
+139,Nginx,DevOps & Cloud,2
+139,Google Cloud,DevOps & Cloud,1
+139,Communication,Soft Skills,1
+139,Git,DevOps & Cloud,1
+140,Figma,UI/UX Design,3
+140,UI Design,UI/UX Design,2
+140,UX Research,UI/UX Design,3
+140,Wireframing,UI/UX Design,3
+140,Design Systems,UI/UX Design,2
+140,CSS,Web Development,2
+140,Accessibility,UI/UX Design,3
+140,Git,DevOps & Cloud,3
+140,Next.js,Web Development,1
+140,Authentication,Web Development,1
+140,TypeScript,Web Development,1
+140,PostgreSQL,Databases,1
+141,SQL,Databases,3
+141,Data Warehousing,Databases,1
+141,Communication,Soft Skills,1
+141,Problem Solving,Soft Skills,3
+141,Data Engineering,Data Science & AI,2
+141,Apache Kafka,Data Science & AI,1
+141,Git,DevOps & Cloud,1
+141,Teamwork,Soft Skills,1
+141,Python,Programming Languages,1
+141,Apache Spark,Data Science & AI,1
+142,Git,DevOps & Cloud,3
+142,Docker,DevOps & Cloud,4
+142,Kubernetes,DevOps & Cloud,2
+142,AWS,DevOps & Cloud,4
+142,Terraform,DevOps & Cloud,3
+142,Ansible,DevOps & Cloud,2
+142,Networking,DevOps & Cloud,2
+142,Python,Programming Languages,1
+142,Nginx,DevOps & Cloud,1
+142,CI/CD,DevOps & Cloud,2
+142,Problem Solving,Soft Skills,3
+142,Dart,Programming Languages,1
+142,Accessibility,UI/UX Design,1
+142,MLOps,Data Science & AI,1
+142,Monitoring,DevOps & Cloud,1
+142,Linux,DevOps & Cloud,1
+143,HTML,Web Development,4
+143,TypeScript,Web Development,3
+143,React,Web Development,3
+143,Next.js,Web Development,1
+143,Responsive Design,Web Development,4
+143,Webpack,Web Development,1
+143,Figma,UI/UX Design,2
+143,Tailwind CSS,Web Development,3
+143,FastAPI,Web Development,3
+143,Problem Solving,Soft Skills,2
+143,Communication,Soft Skills,1
+143,CSS,Web Development,1
+143,JavaScript,Web Development,1
+144,CSS,Web Development,2
+144,JavaScript,Web Development,2
+144,TypeScript,Web Development,1
+144,React,Web Development,3
+144,Express.js,Web Development,2
+144,REST API Design,Web Development,2
+144,Authentication,Web Development,1
+144,SQL,Databases,1
+144,Database Design,Databases,1
+144,Webpack,Web Development,2
+144,Django,Web Development,2
+144,FastAPI,Web Development,3
+144,Git,DevOps & Cloud,2
+144,Problem Solving,Soft Skills,2
+144,Communication,Soft Skills,2
+144,Docker,DevOps & Cloud,1
+144,Next.js,Web Development,1
+144,MongoDB,Databases,1
+144,HTML,Web Development,1
+144,Responsive Design,Web Development,1
+145,CSS,Web Development,4
+145,JavaScript,Web Development,4
+145,TypeScript,Web Development,4
+145,Redux,Web Development,3
+145,Tailwind CSS,Web Development,2
+145,Responsive Design,Web Development,4
+145,Accessibility,UI/UX Design,2
+145,Webpack,Web Development,2
+145,Git,DevOps & Cloud,4
+145,Spring Boot,Web Development,3
+145,Vue.js,Web Development,3
+145,Problem Solving,Soft Skills,2
+145,Communication,Soft Skills,1
+145,Teamwork,Soft Skills,2
+145,Express.js,Web Development,1
+145,Operating Systems,Programming Languages,1
+145,HTML,Web Development,1
+146,LLMs,Data Science & AI,3
+146,NLP,Data Science & AI,1
+146,Machine Learning,Data Science & AI,3
+146,PostgreSQL,Databases,2
+146,Redis,Databases,2
+146,AWS,DevOps & Cloud,1
+146,JavaScript,Web Development,2
+146,TensorFlow,Data Science & AI,2
+146,Excel,Data Science & AI,1
+146,Data Engineering,Data Science & AI,1
+146,Problem Solving,Soft Skills,3
+146,Python,Programming Languages,1
+146,PyTorch,Data Science & AI,1
+146,Data Structures & Algorithms,Programming Languages,1
+146,React,Web Development,1
+147,Python,Programming Languages,4
+147,Pandas,Data Science & AI,4
+147,Machine Learning,Data Science & AI,2
+147,Communication,Soft Skills,1
+147,MLOps,Data Science & AI,3
+147,Apache Spark,Data Science & AI,2
+147,Git,DevOps & Cloud,1
+147,Teamwork,Soft Skills,2
+147,NumPy,Data Science & AI,1
+147,Data Visualization,Data Science & AI,1
+147,Statistics,Data Science & AI,1
+148,Express.js,Web Development,1
+148,REST API Design,Web Development,2
+148,Authentication,Web Development,3
+148,Redis,Databases,1
+148,Microservices,Web Development,3
+148,Docker,DevOps & Cloud,2
+148,Git,DevOps & Cloud,2
+148,Unit Testing,Software Engineering,2
+148,GraphQL,Web Development,2
+148,Linux,DevOps & Cloud,1
+148,Flask,Web Development,1
+148,WebSockets,Web Development,2
+148,Communication,Soft Skills,2
+148,C,Programming Languages,1
+148,PHP,Programming Languages,1
+148,Nginx,DevOps & Cloud,1
+148,React,Web Development,1
+148,Node.js,Web Development,1
+148,MongoDB,Databases,1
+148,Kubernetes,DevOps & Cloud,1
+148,Monitoring,DevOps & Cloud,1
+149,Kotlin,Programming Languages,2
+149,Dart,Programming Languages,1
+149,Git,DevOps & Cloud,3
+149,UI Design,UI/UX Design,2
+149,Unit Testing,Software Engineering,1
+149,Android Development,Mobile Development,1
+149,Problem Solving,Soft Skills,2
+149,Teamwork,Soft Skills,3
+149,PyTorch,Data Science & AI,1
+149,Flutter,Mobile Development,1
+149,Firebase,Databases,1
+150,Figma,UI/UX Design,4
+150,UI Design,UI/UX Design,3
+150,UX Research,UI/UX Design,1
+150,Wireframing,UI/UX Design,2
+150,Design Systems,UI/UX Design,3
+150,Accessibility,UI/UX Design,3
+150,HTML,Web Development,1
+150,Communication,Soft Skills,3
+150,Git,DevOps & Cloud,3
+150,Problem Solving,Soft Skills,2
+150,Teamwork,Soft Skills,1
+150,R,Programming Languages,1

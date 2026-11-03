@@ -1,0 +1,40 @@
+Ananya Krishnan
+Full Stack Developer
+ananya.krishnan@example.com | +91 98765 43210 | github.com/ananya-k | linkedin.com/in/ananya-krishnan
+
+SUMMARY
+Full stack developer with 2 years of experience building MERN applications. Strong in React and Node.js, familiar with Docker basics, currently learning TypeScript and Next.js.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, HTML, CSS
+Frameworks: React, Node.js, Express.js, Redux, Tailwind CSS
+Databases: MongoDB, PostgreSQL, Redis
+Tools: Git, GitHub, Docker, Postman, Figma
+
+EXPERIENCE
+Software Engineer - BrightApps, Chennai (2024 - Present)
+- Built REST APIs with Node.js and Express.js serving 50k monthly users
+- Implemented JWT authentication and role based access control
+- Designed MongoDB schemas and optimised slow queries with indexes
+- Wrote unit tests with Jest and set up CI/CD using GitHub Actions
+- Led a team of 3 interns and presented demos to stakeholders (communication skills)
+
+PROJECTS
+Taskly - Team Task Manager
+- Kanban board with React, Redux and a Node.js/Express backend, MongoDB for storage
+- Real-time updates using Socket.io websockets
+ShopEasy | E-commerce platform
+- Next.js storefront, Stripe checkout, PostgreSQL database design and REST API design
+Portfolio Website
+- Responsive design with HTML, CSS and Tailwind CSS, deployed on Nginx with Docker
+
+EDUCATION
+Anna University
+B.E. Computer Science, 2023
+
+CERTIFICATIONS
+MongoDB Associate Developer - MongoDB University, 2024
+Meta Front-End Developer Certificate - Coursera, 2023
+
+INTERESTS
+Photography, chess, travel vlogging

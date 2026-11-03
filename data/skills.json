@@ -1,0 +1,1513 @@
+[
+  {
+    "name": "HTML",
+    "slug": "html",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "html5"
+    ],
+    "prerequisites": [],
+    "docs": "https://developer.mozilla.org/en-US/docs/Learn/HTML"
+  },
+  {
+    "name": "CSS",
+    "slug": "css",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "css3"
+    ],
+    "prerequisites": [
+      "HTML"
+    ],
+    "docs": "https://developer.mozilla.org/en-US/docs/Learn/CSS"
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "js",
+      "ecmascript",
+      "es6",
+      "vanilla js"
+    ],
+    "prerequisites": [
+      "HTML"
+    ],
+    "docs": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript"
+  },
+  {
+    "name": "TypeScript",
+    "slug": "typescript",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [],
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "docs": "https://www.typescriptlang.org/docs"
+  },
+  {
+    "name": "React",
+    "slug": "react",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "reactjs",
+      "react.js"
+    ],
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "docs": "https://react.dev"
+  },
+  {
+    "name": "Next.js",
+    "slug": "next-js",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "nextjs"
+    ],
+    "prerequisites": [
+      "React"
+    ],
+    "docs": "https://nextjs.org/docs"
+  },
+  {
+    "name": "Vue.js",
+    "slug": "vue-js",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "vue",
+      "vuejs"
+    ],
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "docs": "https://vuejs.org/guide"
+  },
+  {
+    "name": "Angular",
+    "slug": "angular",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "angularjs"
+    ],
+    "prerequisites": [
+      "TypeScript"
+    ],
+    "docs": "https://angular.dev"
+  },
+  {
+    "name": "Redux",
+    "slug": "redux",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "redux toolkit",
+      "zustand"
+    ],
+    "prerequisites": [
+      "React"
+    ],
+    "docs": "https://redux-toolkit.js.org"
+  },
+  {
+    "name": "Tailwind CSS",
+    "slug": "tailwind-css",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "tailwind",
+      "tailwindcss"
+    ],
+    "prerequisites": [
+      "CSS"
+    ],
+    "docs": "https://tailwindcss.com/docs"
+  },
+  {
+    "name": "Bootstrap",
+    "slug": "bootstrap",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [],
+    "prerequisites": [
+      "CSS"
+    ],
+    "docs": "https://getbootstrap.com/docs"
+  },
+  {
+    "name": "Responsive Design",
+    "slug": "responsive-design",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "responsive web design",
+      "mobile-first",
+      "media queries"
+    ],
+    "prerequisites": [
+      "CSS"
+    ],
+    "docs": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+  },
+  {
+    "name": "Webpack",
+    "slug": "webpack",
+    "domain": "Web Development",
+    "group": "Frontend",
+    "aliases": [
+      "vite",
+      "bundler",
+      "bundlers",
+      "babel"
+    ],
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "docs": "https://webpack.js.org/concepts"
+  },
+  {
+    "name": "Node.js",
+    "slug": "node-js",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "nodejs",
+      "node js"
+    ],
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "docs": "https://nodejs.org/en/learn"
+  },
+  {
+    "name": "Express.js",
+    "slug": "express-js",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "expressjs",
+      "express js"
+    ],
+    "prerequisites": [
+      "Node.js"
+    ],
+    "docs": "https://expressjs.com"
+  },
+  {
+    "name": "REST API Design",
+    "slug": "rest-api-design",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "restful",
+      "rest api",
+      "rest apis",
+      "api design",
+      "api development",
+      "web services"
+    ],
+    "prerequisites": [],
+    "docs": "https://restfulapi.net"
+  },
+  {
+    "name": "GraphQL",
+    "slug": "graphql",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "apollo graphql",
+      "apollo server"
+    ],
+    "prerequisites": [
+      "REST API Design"
+    ],
+    "docs": "https://graphql.org/learn"
+  },
+  {
+    "name": "Authentication",
+    "slug": "authentication",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "auth",
+      "jwt",
+      "oauth",
+      "oauth2",
+      "json web token",
+      "session management",
+      "authorization",
+      "passport.js"
+    ],
+    "prerequisites": [],
+    "docs": "https://owasp.org/www-project-authentication-cheat-sheet"
+  },
+  {
+    "name": "WebSockets",
+    "slug": "websockets",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "websocket",
+      "socket.io"
+    ],
+    "prerequisites": [
+      "Node.js"
+    ],
+    "docs": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+  },
+  {
+    "name": "Django",
+    "slug": "django",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "django rest framework"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "docs": "https://docs.djangoproject.com"
+  },
+  {
+    "name": "Flask",
+    "slug": "flask",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [],
+    "prerequisites": [
+      "Python"
+    ],
+    "docs": "https://flask.palletsprojects.com"
+  },
+  {
+    "name": "FastAPI",
+    "slug": "fastapi",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [],
+    "prerequisites": [
+      "Python"
+    ],
+    "docs": "https://fastapi.tiangolo.com"
+  },
+  {
+    "name": "Spring Boot",
+    "slug": "spring-boot",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "springboot",
+      "spring framework",
+      "spring mvc"
+    ],
+    "prerequisites": [
+      "Java"
+    ],
+    "docs": "https://spring.io/guides"
+  },
+  {
+    "name": "Microservices",
+    "slug": "microservices",
+    "domain": "Web Development",
+    "group": "Backend",
+    "aliases": [
+      "microservice",
+      "microservices architecture"
+    ],
+    "prerequisites": [
+      "REST API Design"
+    ],
+    "docs": "https://microservices.io"
+  },
+  {
+    "name": "SQL",
+    "slug": "sql",
+    "domain": "Databases",
+    "group": "Relational",
+    "aliases": [
+      "structured query language",
+      "sql queries"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.w3schools.com/sql"
+  },
+  {
+    "name": "MySQL",
+    "slug": "mysql",
+    "domain": "Databases",
+    "group": "Relational",
+    "aliases": [],
+    "prerequisites": [
+      "SQL"
+    ],
+    "docs": "https://dev.mysql.com/doc"
+  },
+  {
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "domain": "Databases",
+    "group": "Relational",
+    "aliases": [
+      "postgres",
+      "psql"
+    ],
+    "prerequisites": [
+      "SQL"
+    ],
+    "docs": "https://www.postgresql.org/docs"
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "domain": "Databases",
+    "group": "NoSQL",
+    "aliases": [
+      "mongo",
+      "mongoose",
+      "mongo db",
+      "nosql"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.mongodb.com/docs"
+  },
+  {
+    "name": "Redis",
+    "slug": "redis",
+    "domain": "Databases",
+    "group": "NoSQL",
+    "aliases": [],
+    "prerequisites": [],
+    "docs": "https://redis.io/docs"
+  },
+  {
+    "name": "Elasticsearch",
+    "slug": "elasticsearch",
+    "domain": "Databases",
+    "group": "NoSQL",
+    "aliases": [
+      "elastic search",
+      "elk stack"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.elastic.co/guide"
+  },
+  {
+    "name": "Firebase",
+    "slug": "firebase",
+    "domain": "Databases",
+    "group": "NoSQL",
+    "aliases": [
+      "firestore"
+    ],
+    "prerequisites": [],
+    "docs": "https://firebase.google.com/docs"
+  },
+  {
+    "name": "Database Design",
+    "slug": "database-design",
+    "domain": "Databases",
+    "group": "Design",
+    "aliases": [
+      "schema design",
+      "data modeling",
+      "data modelling",
+      "normalization",
+      "erd",
+      "er diagram"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.mongodb.com/docs/manual/data-modeling"
+  },
+  {
+    "name": "Data Warehousing",
+    "slug": "data-warehousing",
+    "domain": "Databases",
+    "group": "Analytics",
+    "aliases": [
+      "snowflake",
+      "bigquery",
+      "redshift",
+      "data warehouse"
+    ],
+    "prerequisites": [
+      "SQL"
+    ],
+    "docs": "https://cloud.google.com/bigquery/docs"
+  },
+  {
+    "name": "Python",
+    "slug": "python",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "python3"
+    ],
+    "prerequisites": [],
+    "docs": "https://docs.python.org/3/tutorial"
+  },
+  {
+    "name": "Java",
+    "slug": "java",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "core java"
+    ],
+    "prerequisites": [],
+    "docs": "https://dev.java/learn"
+  },
+  {
+    "name": "C",
+    "slug": "c",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "c programming"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.learn-c.org"
+  },
+  {
+    "name": "C++",
+    "slug": "c++",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "cpp"
+    ],
+    "prerequisites": [
+      "C"
+    ],
+    "docs": "https://en.cppreference.com"
+  },
+  {
+    "name": "C#",
+    "slug": "c#",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "csharp",
+      ".net",
+      "dotnet"
+    ],
+    "prerequisites": [],
+    "docs": "https://learn.microsoft.com/dotnet/csharp"
+  },
+  {
+    "name": "Go",
+    "slug": "go",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "golang"
+    ],
+    "prerequisites": [],
+    "docs": "https://go.dev/doc"
+  },
+  {
+    "name": "Rust",
+    "slug": "rust",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [],
+    "prerequisites": [],
+    "docs": "https://doc.rust-lang.org/book"
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "laravel"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.php.net/manual"
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "ruby on rails",
+      "rails"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.ruby-lang.org/en/documentation"
+  },
+  {
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [],
+    "prerequisites": [
+      "Java"
+    ],
+    "docs": "https://kotlinlang.org/docs"
+  },
+  {
+    "name": "Swift",
+    "slug": "swift",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [],
+    "prerequisites": [],
+    "docs": "https://www.swift.org/documentation"
+  },
+  {
+    "name": "Dart",
+    "slug": "dart",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [],
+    "prerequisites": [],
+    "docs": "https://dart.dev/guides"
+  },
+  {
+    "name": "R",
+    "slug": "r",
+    "domain": "Programming Languages",
+    "group": "Languages",
+    "aliases": [
+      "r programming",
+      "rstudio"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.r-project.org/other-docs.html"
+  },
+  {
+    "name": "Data Structures & Algorithms",
+    "slug": "data-structures-algorithms",
+    "domain": "Programming Languages",
+    "group": "CS Fundamentals",
+    "aliases": [
+      "dsa",
+      "algorithms",
+      "data structures",
+      "leetcode",
+      "competitive programming"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms"
+  },
+  {
+    "name": "Object-Oriented Programming",
+    "slug": "object-oriented-programming",
+    "domain": "Programming Languages",
+    "group": "CS Fundamentals",
+    "aliases": [
+      "oop",
+      "object oriented programming",
+      "object oriented design"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.freecodecamp.org/news/object-oriented-programming-concepts"
+  },
+  {
+    "name": "Operating Systems",
+    "slug": "operating-systems",
+    "domain": "Programming Languages",
+    "group": "CS Fundamentals",
+    "aliases": [
+      "os concepts",
+      "process scheduling",
+      "memory management"
+    ],
+    "prerequisites": [],
+    "docs": "https://pages.cs.wisc.edu/~remzi/OSTEP"
+  },
+  {
+    "name": "Excel",
+    "slug": "excel",
+    "domain": "Data Science & AI",
+    "group": "Data Analysis",
+    "aliases": [
+      "microsoft excel",
+      "spreadsheets",
+      "pivot tables",
+      "google sheets"
+    ],
+    "prerequisites": [],
+    "docs": "https://support.microsoft.com/excel"
+  },
+  {
+    "name": "Statistics",
+    "slug": "statistics",
+    "domain": "Data Science & AI",
+    "group": "Data Analysis",
+    "aliases": [
+      "statistical analysis",
+      "hypothesis testing",
+      "probability",
+      "a/b testing"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.khanacademy.org/math/statistics-probability"
+  },
+  {
+    "name": "Pandas",
+    "slug": "pandas",
+    "domain": "Data Science & AI",
+    "group": "Data Analysis",
+    "aliases": [],
+    "prerequisites": [
+      "Python"
+    ],
+    "docs": "https://pandas.pydata.org/docs"
+  },
+  {
+    "name": "NumPy",
+    "slug": "numpy",
+    "domain": "Data Science & AI",
+    "group": "Data Analysis",
+    "aliases": [],
+    "prerequisites": [
+      "Python"
+    ],
+    "docs": "https://numpy.org/doc"
+  },
+  {
+    "name": "Data Visualization",
+    "slug": "data-visualization",
+    "domain": "Data Science & AI",
+    "group": "Data Analysis",
+    "aliases": [
+      "matplotlib",
+      "seaborn",
+      "plotly",
+      "tableau",
+      "power bi",
+      "powerbi",
+      "data viz",
+      "d3.js",
+      "dashboards"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.data-to-viz.com"
+  },
+  {
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "ml",
+      "scikit-learn",
+      "sklearn",
+      "supervised learning",
+      "xgboost",
+      "random forest"
+    ],
+    "prerequisites": [
+      "Python",
+      "Statistics"
+    ],
+    "docs": "https://scikit-learn.org/stable/user_guide.html"
+  },
+  {
+    "name": "Deep Learning",
+    "slug": "deep-learning",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "neural networks",
+      "neural network",
+      "cnn",
+      "rnn",
+      "lstm",
+      "transformers"
+    ],
+    "prerequisites": [
+      "Machine Learning"
+    ],
+    "docs": "https://www.deeplearning.ai"
+  },
+  {
+    "name": "TensorFlow",
+    "slug": "tensorflow",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "keras",
+      "tensorflow lite"
+    ],
+    "prerequisites": [
+      "Deep Learning"
+    ],
+    "docs": "https://www.tensorflow.org/learn"
+  },
+  {
+    "name": "PyTorch",
+    "slug": "pytorch",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "torch"
+    ],
+    "prerequisites": [
+      "Deep Learning"
+    ],
+    "docs": "https://pytorch.org/tutorials"
+  },
+  {
+    "name": "NLP",
+    "slug": "nlp",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "natural language processing",
+      "text mining",
+      "spacy",
+      "nltk",
+      "hugging face"
+    ],
+    "prerequisites": [
+      "Machine Learning"
+    ],
+    "docs": "https://huggingface.co/learn/nlp-course"
+  },
+  {
+    "name": "Computer Vision",
+    "slug": "computer-vision",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "opencv",
+      "image processing",
+      "object detection",
+      "yolo"
+    ],
+    "prerequisites": [
+      "Deep Learning"
+    ],
+    "docs": "https://docs.opencv.org"
+  },
+  {
+    "name": "LLMs",
+    "slug": "llms",
+    "domain": "Data Science & AI",
+    "group": "Generative AI",
+    "aliases": [
+      "large language models",
+      "llm",
+      "prompt engineering",
+      "openai api",
+      "langchain",
+      "rag",
+      "retrieval augmented generation",
+      "generative ai",
+      "vector database"
+    ],
+    "prerequisites": [
+      "NLP"
+    ],
+    "docs": "https://platform.openai.com/docs"
+  },
+  {
+    "name": "MLOps",
+    "slug": "mlops",
+    "domain": "Data Science & AI",
+    "group": "Machine Learning",
+    "aliases": [
+      "mlflow",
+      "model deployment",
+      "model serving",
+      "kubeflow"
+    ],
+    "prerequisites": [
+      "Machine Learning",
+      "Docker"
+    ],
+    "docs": "https://ml-ops.org"
+  },
+  {
+    "name": "Data Engineering",
+    "slug": "data-engineering",
+    "domain": "Data Science & AI",
+    "group": "Data Engineering",
+    "aliases": [
+      "etl",
+      "airflow",
+      "data pipelines",
+      "data pipeline",
+      "dbt"
+    ],
+    "prerequisites": [
+      "SQL",
+      "Python"
+    ],
+    "docs": "https://airflow.apache.org/docs"
+  },
+  {
+    "name": "Apache Spark",
+    "slug": "apache-spark",
+    "domain": "Data Science & AI",
+    "group": "Data Engineering",
+    "aliases": [
+      "spark",
+      "pyspark"
+    ],
+    "prerequisites": [
+      "Python",
+      "SQL"
+    ],
+    "docs": "https://spark.apache.org/docs/latest"
+  },
+  {
+    "name": "Apache Kafka",
+    "slug": "apache-kafka",
+    "domain": "Data Science & AI",
+    "group": "Data Engineering",
+    "aliases": [
+      "kafka"
+    ],
+    "prerequisites": [],
+    "docs": "https://kafka.apache.org/documentation"
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "domain": "DevOps & Cloud",
+    "group": "Fundamentals",
+    "aliases": [
+      "github",
+      "gitlab",
+      "version control",
+      "bitbucket"
+    ],
+    "prerequisites": [],
+    "docs": "https://git-scm.com/doc"
+  },
+  {
+    "name": "Linux",
+    "slug": "linux",
+    "domain": "DevOps & Cloud",
+    "group": "Fundamentals",
+    "aliases": [
+      "bash",
+      "shell scripting",
+      "unix",
+      "ubuntu",
+      "shell"
+    ],
+    "prerequisites": [],
+    "docs": "https://linuxjourney.com"
+  },
+  {
+    "name": "Networking",
+    "slug": "networking",
+    "domain": "DevOps & Cloud",
+    "group": "Fundamentals",
+    "aliases": [
+      "tcp/ip",
+      "dns",
+      "http protocol",
+      "computer networks",
+      "load balancing"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.cloudflare.com/learning"
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "domain": "DevOps & Cloud",
+    "group": "Containers",
+    "aliases": [
+      "containers",
+      "dockerfile",
+      "docker compose",
+      "containerization"
+    ],
+    "prerequisites": [
+      "Linux"
+    ],
+    "docs": "https://docs.docker.com"
+  },
+  {
+    "name": "Kubernetes",
+    "slug": "kubernetes",
+    "domain": "DevOps & Cloud",
+    "group": "Containers",
+    "aliases": [
+      "k8s",
+      "helm"
+    ],
+    "prerequisites": [
+      "Docker"
+    ],
+    "docs": "https://kubernetes.io/docs"
+  },
+  {
+    "name": "CI/CD",
+    "slug": "ci-cd",
+    "domain": "DevOps & Cloud",
+    "group": "Automation",
+    "aliases": [
+      "github actions",
+      "jenkins",
+      "gitlab ci",
+      "continuous integration",
+      "continuous deployment",
+      "circleci"
+    ],
+    "prerequisites": [
+      "Git"
+    ],
+    "docs": "https://docs.github.com/actions"
+  },
+  {
+    "name": "AWS",
+    "slug": "aws",
+    "domain": "DevOps & Cloud",
+    "group": "Cloud",
+    "aliases": [
+      "amazon web services",
+      "ec2",
+      "s3",
+      "aws lambda",
+      "cloudformation"
+    ],
+    "prerequisites": [
+      "Linux"
+    ],
+    "docs": "https://docs.aws.amazon.com"
+  },
+  {
+    "name": "Azure",
+    "slug": "azure",
+    "domain": "DevOps & Cloud",
+    "group": "Cloud",
+    "aliases": [
+      "microsoft azure"
+    ],
+    "prerequisites": [],
+    "docs": "https://learn.microsoft.com/azure"
+  },
+  {
+    "name": "Google Cloud",
+    "slug": "google-cloud",
+    "domain": "DevOps & Cloud",
+    "group": "Cloud",
+    "aliases": [
+      "gcp",
+      "google cloud platform"
+    ],
+    "prerequisites": [],
+    "docs": "https://cloud.google.com/docs"
+  },
+  {
+    "name": "Terraform",
+    "slug": "terraform",
+    "domain": "DevOps & Cloud",
+    "group": "Infrastructure",
+    "aliases": [
+      "infrastructure as code",
+      "iac",
+      "pulumi"
+    ],
+    "prerequisites": [
+      "AWS"
+    ],
+    "docs": "https://developer.hashicorp.com/terraform/docs"
+  },
+  {
+    "name": "Ansible",
+    "slug": "ansible",
+    "domain": "DevOps & Cloud",
+    "group": "Infrastructure",
+    "aliases": [],
+    "prerequisites": [
+      "Linux"
+    ],
+    "docs": "https://docs.ansible.com"
+  },
+  {
+    "name": "Monitoring",
+    "slug": "monitoring",
+    "domain": "DevOps & Cloud",
+    "group": "Observability",
+    "aliases": [
+      "prometheus",
+      "grafana",
+      "observability",
+      "datadog",
+      "logging"
+    ],
+    "prerequisites": [
+      "Linux"
+    ],
+    "docs": "https://prometheus.io/docs"
+  },
+  {
+    "name": "Nginx",
+    "slug": "nginx",
+    "domain": "DevOps & Cloud",
+    "group": "Web Servers",
+    "aliases": [
+      "reverse proxy",
+      "web server"
+    ],
+    "prerequisites": [
+      "Linux"
+    ],
+    "docs": "https://nginx.org/en/docs"
+  },
+  {
+    "name": "React Native",
+    "slug": "react-native",
+    "domain": "Mobile Development",
+    "group": "Cross-platform",
+    "aliases": [
+      "react-native",
+      "expo"
+    ],
+    "prerequisites": [
+      "React"
+    ],
+    "docs": "https://reactnative.dev/docs/getting-started"
+  },
+  {
+    "name": "Flutter",
+    "slug": "flutter",
+    "domain": "Mobile Development",
+    "group": "Cross-platform",
+    "aliases": [],
+    "prerequisites": [
+      "Dart"
+    ],
+    "docs": "https://docs.flutter.dev"
+  },
+  {
+    "name": "Android Development",
+    "slug": "android-development",
+    "domain": "Mobile Development",
+    "group": "Native",
+    "aliases": [
+      "android",
+      "android studio",
+      "jetpack compose"
+    ],
+    "prerequisites": [
+      "Kotlin"
+    ],
+    "docs": "https://developer.android.com/courses"
+  },
+  {
+    "name": "iOS Development",
+    "slug": "ios-development",
+    "domain": "Mobile Development",
+    "group": "Native",
+    "aliases": [
+      "ios",
+      "xcode",
+      "swiftui",
+      "uikit"
+    ],
+    "prerequisites": [
+      "Swift"
+    ],
+    "docs": "https://developer.apple.com/tutorials/app-dev-training"
+  },
+  {
+    "name": "Network Security",
+    "slug": "network-security",
+    "domain": "Cybersecurity",
+    "group": "Defense",
+    "aliases": [
+      "firewall",
+      "firewalls",
+      "vpn",
+      "ids",
+      "ips",
+      "intrusion detection"
+    ],
+    "prerequisites": [
+      "Networking"
+    ],
+    "docs": "https://www.cisco.com/c/en/us/products/security/what-is-network-security.html"
+  },
+  {
+    "name": "Ethical Hacking",
+    "slug": "ethical-hacking",
+    "domain": "Cybersecurity",
+    "group": "Offense",
+    "aliases": [
+      "penetration testing",
+      "pentest",
+      "pentesting",
+      "kali linux",
+      "burp suite",
+      "metasploit",
+      "ctf"
+    ],
+    "prerequisites": [
+      "Networking",
+      "Linux"
+    ],
+    "docs": "https://tryhackme.com"
+  },
+  {
+    "name": "Web Security",
+    "slug": "web-security",
+    "domain": "Cybersecurity",
+    "group": "Defense",
+    "aliases": [
+      "owasp",
+      "xss",
+      "csrf",
+      "sql injection",
+      "owasp top 10"
+    ],
+    "prerequisites": [
+      "Networking"
+    ],
+    "docs": "https://owasp.org/www-project-top-ten"
+  },
+  {
+    "name": "Cryptography",
+    "slug": "cryptography",
+    "domain": "Cybersecurity",
+    "group": "Fundamentals",
+    "aliases": [
+      "encryption",
+      "pki",
+      "hashing",
+      "tls"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.coursera.org/learn/crypto"
+  },
+  {
+    "name": "SIEM",
+    "slug": "siem",
+    "domain": "Cybersecurity",
+    "group": "Defense",
+    "aliases": [
+      "splunk",
+      "security monitoring",
+      "soc",
+      "log analysis"
+    ],
+    "prerequisites": [
+      "Networking"
+    ],
+    "docs": "https://www.splunk.com/en_us/training.html"
+  },
+  {
+    "name": "Incident Response",
+    "slug": "incident-response",
+    "domain": "Cybersecurity",
+    "group": "Defense",
+    "aliases": [
+      "digital forensics",
+      "threat hunting",
+      "malware analysis"
+    ],
+    "prerequisites": [
+      "SIEM"
+    ],
+    "docs": "https://www.sans.org/blog/incident-response-resources"
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "domain": "UI/UX Design",
+    "group": "Tools",
+    "aliases": [
+      "figma design",
+      "adobe xd",
+      "sketch app"
+    ],
+    "prerequisites": [],
+    "docs": "https://help.figma.com"
+  },
+  {
+    "name": "UI Design",
+    "slug": "ui-design",
+    "domain": "UI/UX Design",
+    "group": "Design",
+    "aliases": [
+      "ui",
+      "visual design",
+      "user interface design",
+      "typography",
+      "color theory"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.nngroup.com/articles"
+  },
+  {
+    "name": "UX Research",
+    "slug": "ux-research",
+    "domain": "UI/UX Design",
+    "group": "Research",
+    "aliases": [
+      "user research",
+      "usability testing",
+      "personas",
+      "user interviews",
+      "user journey"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.nngroup.com/articles/ux-research-cheat-sheet"
+  },
+  {
+    "name": "Wireframing",
+    "slug": "wireframing",
+    "domain": "UI/UX Design",
+    "group": "Design",
+    "aliases": [
+      "prototyping",
+      "wireframes",
+      "low-fidelity",
+      "mockups"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.interaction-design.org/literature/topics/wireframing"
+  },
+  {
+    "name": "Design Systems",
+    "slug": "design-systems",
+    "domain": "UI/UX Design",
+    "group": "Design",
+    "aliases": [
+      "design system",
+      "component library",
+      "design tokens",
+      "storybook"
+    ],
+    "prerequisites": [
+      "UI Design"
+    ],
+    "docs": "https://www.designsystems.com"
+  },
+  {
+    "name": "Accessibility",
+    "slug": "accessibility",
+    "domain": "UI/UX Design",
+    "group": "Design",
+    "aliases": [
+      "a11y",
+      "wcag",
+      "aria",
+      "screen reader"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.w3.org/WAI/fundamentals"
+  },
+  {
+    "name": "Unit Testing",
+    "slug": "unit-testing",
+    "domain": "Software Engineering",
+    "group": "Quality",
+    "aliases": [
+      "jest",
+      "mocha",
+      "pytest",
+      "junit",
+      "tdd",
+      "test-driven development",
+      "unit tests",
+      "vitest"
+    ],
+    "prerequisites": [],
+    "docs": "https://jestjs.io/docs/getting-started"
+  },
+  {
+    "name": "Test Automation",
+    "slug": "test-automation",
+    "domain": "Software Engineering",
+    "group": "Quality",
+    "aliases": [
+      "selenium",
+      "cypress",
+      "playwright",
+      "qa automation",
+      "automated testing",
+      "appium",
+      "e2e testing"
+    ],
+    "prerequisites": [],
+    "docs": "https://playwright.dev/docs/intro"
+  },
+  {
+    "name": "Agile",
+    "slug": "agile",
+    "domain": "Software Engineering",
+    "group": "Process",
+    "aliases": [
+      "scrum",
+      "kanban",
+      "jira",
+      "sprint planning"
+    ],
+    "prerequisites": [],
+    "docs": "https://agilemanifesto.org"
+  },
+  {
+    "name": "Design Patterns",
+    "slug": "design-patterns",
+    "domain": "Software Engineering",
+    "group": "Design",
+    "aliases": [
+      "solid principles",
+      "gang of four"
+    ],
+    "prerequisites": [
+      "Object-Oriented Programming"
+    ],
+    "docs": "https://refactoring.guru/design-patterns"
+  },
+  {
+    "name": "System Design",
+    "slug": "system-design",
+    "domain": "Software Engineering",
+    "group": "Architecture",
+    "aliases": [
+      "distributed systems",
+      "scalability",
+      "high availability",
+      "system architecture"
+    ],
+    "prerequisites": [],
+    "docs": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "name": "Documentation",
+    "slug": "documentation",
+    "domain": "Software Engineering",
+    "group": "Process",
+    "aliases": [
+      "technical writing",
+      "api documentation",
+      "swagger",
+      "openapi"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.writethedocs.org/guide"
+  },
+  {
+    "name": "Unity",
+    "slug": "unity",
+    "domain": "Game Development",
+    "group": "Engines",
+    "aliases": [
+      "unity3d",
+      "unity engine"
+    ],
+    "prerequisites": [
+      "C#"
+    ],
+    "docs": "https://learn.unity.com"
+  },
+  {
+    "name": "Unreal Engine",
+    "slug": "unreal-engine",
+    "domain": "Game Development",
+    "group": "Engines",
+    "aliases": [
+      "unreal",
+      "ue5",
+      "blueprints"
+    ],
+    "prerequisites": [
+      "C++"
+    ],
+    "docs": "https://dev.epicgames.com/community/unreal-engine/learning"
+  },
+  {
+    "name": "3D Modeling",
+    "slug": "3d-modeling",
+    "domain": "Game Development",
+    "group": "Art",
+    "aliases": [
+      "blender",
+      "maya",
+      "3d modelling",
+      "3ds max"
+    ],
+    "prerequisites": [],
+    "docs": "https://www.blender.org/support/tutorials"
+  },
+  {
+    "name": "Communication",
+    "slug": "communication",
+    "domain": "Soft Skills",
+    "group": "Interpersonal",
+    "aliases": [
+      "communication skills",
+      "public speaking",
+      "presentation skills",
+      "written communication"
+    ],
+    "prerequisites": [],
+    "docs": ""
+  },
+  {
+    "name": "Teamwork",
+    "slug": "teamwork",
+    "domain": "Soft Skills",
+    "group": "Interpersonal",
+    "aliases": [
+      "team player",
+      "collaboration",
+      "cross-functional"
+    ],
+    "prerequisites": [],
+    "docs": ""
+  },
+  {
+    "name": "Leadership",
+    "slug": "leadership",
+    "domain": "Soft Skills",
+    "group": "Interpersonal",
+    "aliases": [
+      "team lead",
+      "mentoring",
+      "led a team",
+      "team leadership"
+    ],
+    "prerequisites": [],
+    "docs": ""
+  },
+  {
+    "name": "Problem Solving",
+    "slug": "problem-solving",
+    "domain": "Soft Skills",
+    "group": "Cognitive",
+    "aliases": [
+      "analytical thinking",
+      "critical thinking",
+      "troubleshooting",
+      "debugging"
+    ],
+    "prerequisites": [],
+    "docs": ""
+  },
+  {
+    "name": "Project Management",
+    "slug": "project-management",
+    "domain": "Soft Skills",
+    "group": "Management",
+    "aliases": [
+      "project planning",
+      "stakeholder management",
+      "product management",
+      "roadmapping"
+    ],
+    "prerequisites": [],
+    "docs": ""
+  }
+]

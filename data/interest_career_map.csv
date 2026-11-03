@@ -1,0 +1,46 @@
+interest,label,career_slug,helpful_skills
+gaming,Gaming,game-developer,Unity;C#;3D Modeling;UI Design
+gaming,Gaming,ux-designer,Unity;C#;3D Modeling;UI Design
+gaming,Gaming,full-stack-developer,Unity;C#;3D Modeling;UI Design
+photography,Photography,ux-designer,UI Design;Figma;3D Modeling;Accessibility
+photography,Photography,frontend-developer,UI Design;Figma;3D Modeling;Accessibility
+photography,Photography,game-developer,UI Design;Figma;3D Modeling;Accessibility
+drawing,Drawing & Art,ux-designer,Figma;UI Design;Wireframing;3D Modeling
+drawing,Drawing & Art,frontend-developer,Figma;UI Design;Wireframing;3D Modeling
+drawing,Drawing & Art,game-developer,Figma;UI Design;Wireframing;3D Modeling
+music,Music,game-developer,Unity;Python;NLP
+music,Music,ml-engineer,Unity;Python;NLP
+music,Music,frontend-developer,Unity;Python;NLP
+chess,Chess & Puzzles,backend-developer,Data Structures & Algorithms;Problem Solving;Statistics
+chess,Chess & Puzzles,data-scientist,Data Structures & Algorithms;Problem Solving;Statistics
+chess,Chess & Puzzles,ml-engineer,Data Structures & Algorithms;Problem Solving;Statistics
+writing,Reading & Writing,llm-engineer,NLP;LLMs;UX Research;Communication;Documentation
+writing,Reading & Writing,ux-designer,NLP;LLMs;UX Research;Communication;Documentation
+writing,Reading & Writing,data-analyst,NLP;LLMs;UX Research;Communication;Documentation
+robotics,Robotics & Electronics,ml-engineer,Python;C++;Computer Vision;Linux
+robotics,Robotics & Electronics,cybersecurity-analyst,Python;C++;Computer Vision;Linux
+robotics,Robotics & Electronics,mobile-developer,Python;C++;Computer Vision;Linux
+finance,Finance & Investing,data-analyst,SQL;Statistics;Excel;Data Visualization
+finance,Finance & Investing,data-scientist,SQL;Statistics;Excel;Data Visualization
+finance,Finance & Investing,backend-developer,SQL;Statistics;Excel;Data Visualization
+sports,Sports & Fitness,data-analyst,Data Visualization;Statistics;Flutter
+sports,Sports & Fitness,mobile-developer,Data Visualization;Statistics;Flutter
+sports,Sports & Fitness,data-scientist,Data Visualization;Statistics;Flutter
+hacking,Hacking & CTFs,cybersecurity-analyst,Ethical Hacking;Linux;Networking;Web Security
+hacking,Hacking & CTFs,devops-engineer,Ethical Hacking;Linux;Networking;Web Security
+hacking,Hacking & CTFs,backend-developer,Ethical Hacking;Linux;Networking;Web Security
+teaching,Teaching & Volunteering,ux-designer,Communication;UX Research;Leadership
+teaching,Teaching & Volunteering,data-analyst,Communication;UX Research;Leadership
+teaching,Teaching & Volunteering,full-stack-developer,Communication;UX Research;Leadership
+travel,Travel & Maps,mobile-developer,Flutter;React Native;Data Visualization
+travel,Travel & Maps,data-analyst,Flutter;React Native;Data Visualization
+travel,Travel & Maps,full-stack-developer,Flutter;React Native;Data Visualization
+cooking,Cooking & Food,ux-designer,UX Research;React;Firebase
+cooking,Cooking & Food,full-stack-developer,UX Research;React;Firebase
+cooking,Cooking & Food,mobile-developer,UX Research;React;Firebase
+automation,Home Automation & Gadgets,devops-engineer,Linux;Docker;Networking;Python
+automation,Home Automation & Gadgets,cloud-engineer,Linux;Docker;Networking;Python
+automation,Home Automation & Gadgets,backend-developer,Linux;Docker;Networking;Python
+social,Social Media & Content,frontend-developer,Data Visualization;UI Design;Next.js
+social,Social Media & Content,data-analyst,Data Visualization;UI Design;Next.js
+social,Social Media & Content,ux-designer,Data Visualization;UI Design;Next.js

@@ -1,0 +1,173 @@
+career,career_slug,domain,demand,skill,min_level,weight
+Full Stack Developer,full-stack-developer,Web Development,92,HTML,3,3
+Full Stack Developer,full-stack-developer,Web Development,92,CSS,3,3
+Full Stack Developer,full-stack-developer,Web Development,92,JavaScript,3,5
+Full Stack Developer,full-stack-developer,Web Development,92,TypeScript,2,3
+Full Stack Developer,full-stack-developer,Web Development,92,React,3,5
+Full Stack Developer,full-stack-developer,Web Development,92,Next.js,2,3
+Full Stack Developer,full-stack-developer,Web Development,92,Node.js,3,5
+Full Stack Developer,full-stack-developer,Web Development,92,Express.js,3,4
+Full Stack Developer,full-stack-developer,Web Development,92,REST API Design,3,4
+Full Stack Developer,full-stack-developer,Web Development,92,Authentication,3,4
+Full Stack Developer,full-stack-developer,Web Development,92,MongoDB,3,4
+Full Stack Developer,full-stack-developer,Web Development,92,SQL,2,3
+Full Stack Developer,full-stack-developer,Web Development,92,Database Design,2,3
+Full Stack Developer,full-stack-developer,Web Development,92,Git,3,4
+Full Stack Developer,full-stack-developer,Web Development,92,Docker,2,2
+Full Stack Developer,full-stack-developer,Web Development,92,Unit Testing,2,2
+Full Stack Developer,full-stack-developer,Web Development,92,Responsive Design,3,3
+Full Stack Developer,full-stack-developer,Web Development,92,Communication,2,2
+Frontend Developer,frontend-developer,Web Development,88,HTML,4,4
+Frontend Developer,frontend-developer,Web Development,88,CSS,4,4
+Frontend Developer,frontend-developer,Web Development,88,JavaScript,4,5
+Frontend Developer,frontend-developer,Web Development,88,TypeScript,3,4
+Frontend Developer,frontend-developer,Web Development,88,React,4,5
+Frontend Developer,frontend-developer,Web Development,88,Next.js,3,3
+Frontend Developer,frontend-developer,Web Development,88,Redux,2,2
+Frontend Developer,frontend-developer,Web Development,88,Tailwind CSS,3,3
+Frontend Developer,frontend-developer,Web Development,88,Responsive Design,4,4
+Frontend Developer,frontend-developer,Web Development,88,Accessibility,3,3
+Frontend Developer,frontend-developer,Web Development,88,Webpack,2,1
+Frontend Developer,frontend-developer,Web Development,88,Git,3,3
+Frontend Developer,frontend-developer,Web Development,88,Unit Testing,2,2
+Frontend Developer,frontend-developer,Web Development,88,Figma,2,2
+Backend Developer,backend-developer,Web Development,90,Node.js,4,4
+Backend Developer,backend-developer,Web Development,90,Express.js,3,3
+Backend Developer,backend-developer,Web Development,90,Python,3,3
+Backend Developer,backend-developer,Web Development,90,REST API Design,4,5
+Backend Developer,backend-developer,Web Development,90,Authentication,4,4
+Backend Developer,backend-developer,Web Development,90,SQL,4,5
+Backend Developer,backend-developer,Web Development,90,PostgreSQL,3,4
+Backend Developer,backend-developer,Web Development,90,MongoDB,3,3
+Backend Developer,backend-developer,Web Development,90,Redis,2,3
+Backend Developer,backend-developer,Web Development,90,Database Design,4,4
+Backend Developer,backend-developer,Web Development,90,Microservices,3,3
+Backend Developer,backend-developer,Web Development,90,Docker,3,3
+Backend Developer,backend-developer,Web Development,90,Git,3,3
+Backend Developer,backend-developer,Web Development,90,Unit Testing,3,3
+Backend Developer,backend-developer,Web Development,90,System Design,3,3
+Backend Developer,backend-developer,Web Development,90,GraphQL,2,2
+Backend Developer,backend-developer,Web Development,90,Linux,2,2
+Data Analyst,data-analyst,Data Science & AI,86,SQL,4,5
+Data Analyst,data-analyst,Data Science & AI,86,Excel,3,3
+Data Analyst,data-analyst,Data Science & AI,86,Python,3,4
+Data Analyst,data-analyst,Data Science & AI,86,Pandas,3,4
+Data Analyst,data-analyst,Data Science & AI,86,NumPy,2,2
+Data Analyst,data-analyst,Data Science & AI,86,Data Visualization,4,5
+Data Analyst,data-analyst,Data Science & AI,86,Statistics,3,4
+Data Analyst,data-analyst,Data Science & AI,86,Data Warehousing,2,2
+Data Analyst,data-analyst,Data Science & AI,86,Communication,3,3
+Data Analyst,data-analyst,Data Science & AI,86,Problem Solving,3,2
+Data Scientist,data-scientist,Data Science & AI,84,Python,4,5
+Data Scientist,data-scientist,Data Science & AI,84,Pandas,4,4
+Data Scientist,data-scientist,Data Science & AI,84,NumPy,3,3
+Data Scientist,data-scientist,Data Science & AI,84,Statistics,4,5
+Data Scientist,data-scientist,Data Science & AI,84,Machine Learning,4,5
+Data Scientist,data-scientist,Data Science & AI,84,Data Visualization,3,3
+Data Scientist,data-scientist,Data Science & AI,84,SQL,3,4
+Data Scientist,data-scientist,Data Science & AI,84,Deep Learning,2,2
+Data Scientist,data-scientist,Data Science & AI,84,NLP,2,1
+Data Scientist,data-scientist,Data Science & AI,84,Git,2,2
+Data Scientist,data-scientist,Data Science & AI,84,Communication,3,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Python,4,5
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Machine Learning,4,5
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Deep Learning,3,4
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,TensorFlow,3,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,PyTorch,3,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,MLOps,3,4
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Docker,3,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Data Engineering,2,2
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,SQL,3,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Git,3,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,AWS,2,3
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,NLP,2,2
+Machine Learning Engineer,ml-engineer,Data Science & AI,87,Unit Testing,2,1
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,Python,4,5
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,LLMs,3,5
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,NLP,3,4
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,Machine Learning,3,3
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,FastAPI,3,3
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,REST API Design,3,3
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,Docker,2,2
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,PostgreSQL,2,2
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,Redis,2,1
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,Git,3,3
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,AWS,2,2
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,JavaScript,2,1
+AI / LLM Engineer,llm-engineer,Data Science & AI,95,System Design,2,2
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Linux,4,5
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Git,4,4
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Docker,4,5
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Kubernetes,3,5
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,CI/CD,4,5
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,AWS,3,4
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Terraform,3,4
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Ansible,2,2
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Monitoring,3,4
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Networking,3,3
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Python,2,2
+DevOps Engineer,devops-engineer,DevOps & Cloud,91,Nginx,2,2
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,AWS,4,5
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Azure,2,2
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Google Cloud,2,2
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Linux,3,4
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Networking,3,4
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Terraform,3,4
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Docker,3,3
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Kubernetes,2,3
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,CI/CD,3,3
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Python,2,2
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Monitoring,2,2
+Cloud Engineer,cloud-engineer,DevOps & Cloud,89,Network Security,2,2
+Mobile App Developer,mobile-developer,Mobile Development,82,Kotlin,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,Android Development,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,Swift,2,2
+Mobile App Developer,mobile-developer,Mobile Development,82,Flutter,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,Dart,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,React Native,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,REST API Design,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,Firebase,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,Git,3,3
+Mobile App Developer,mobile-developer,Mobile Development,82,UI Design,2,2
+Mobile App Developer,mobile-developer,Mobile Development,82,Unit Testing,2,2
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Networking,4,5
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Linux,3,4
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Network Security,4,5
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Ethical Hacking,3,4
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Web Security,3,4
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Cryptography,3,3
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,SIEM,3,4
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Incident Response,3,4
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Python,2,2
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Authentication,3,2
+Cybersecurity Analyst,cybersecurity-analyst,Cybersecurity,93,Communication,3,2
+UI/UX Designer,ux-designer,UI/UX Design,80,Figma,4,5
+UI/UX Designer,ux-designer,UI/UX Design,80,UI Design,4,5
+UI/UX Designer,ux-designer,UI/UX Design,80,UX Research,3,4
+UI/UX Designer,ux-designer,UI/UX Design,80,Wireframing,4,4
+UI/UX Designer,ux-designer,UI/UX Design,80,Design Systems,3,3
+UI/UX Designer,ux-designer,UI/UX Design,80,Accessibility,3,3
+UI/UX Designer,ux-designer,UI/UX Design,80,HTML,2,1
+UI/UX Designer,ux-designer,UI/UX Design,80,CSS,2,1
+UI/UX Designer,ux-designer,UI/UX Design,80,Communication,3,3
+Game Developer,game-developer,Game Development,74,Unity,3,5
+Game Developer,game-developer,Game Development,74,C#,3,5
+Game Developer,game-developer,Game Development,74,C++,2,2
+Game Developer,game-developer,Game Development,74,Unreal Engine,2,3
+Game Developer,game-developer,Game Development,74,3D Modeling,2,2
+Game Developer,game-developer,Game Development,74,Data Structures & Algorithms,3,3
+Game Developer,game-developer,Game Development,74,Object-Oriented Programming,3,3
+Game Developer,game-developer,Game Development,74,Git,3,3
+Game Developer,game-developer,Game Development,74,Problem Solving,3,2
+Game Developer,game-developer,Game Development,74,Teamwork,2,2
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Test Automation,4,5
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Unit Testing,3,4
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,JavaScript,3,3
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Python,3,3
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Git,3,3
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,CI/CD,3,3
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,REST API Design,2,3
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,SQL,2,2
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Agile,3,3
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Communication,3,2
+QA Automation Engineer,qa-automation-engineer,Software Engineering,78,Documentation,2,1
